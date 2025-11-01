@@ -1,0 +1,1007 @@
+Journal of Business Venturing 24 (2009) 519–532
+
+Contents lists available at ScienceDirect
+
+Journal of Business Venturing
+
+A typology of social entrepreneurs: Motives, search processes and ethical
+challenges☆
+Shaker A. Zahra a,⁎, Eric Gedajlovic b,1, Donald O. Neubaum c,2, Joel M. Shulman d,3
+a
+
+Department of Strategic Management and Organization and Gary Holmes Entrepreneurship Center, Carlson School of Management, University of Minnesota, 321 19th
+Avenue South (Suite # 3-428), Minneapolis MN 55455, United States
+Simon Fraser University, Surrey, B.C. Canada V3T OA3
+c
+Oregon State University, College of Business, 400E Bexell Hall, Corvallis, OR 97331, United States
+d
+Arthur M. Blank Center, Babson College, Babson Park, MA 02457, United States
+b
+
+a r t i c l e
+
+i n f o
+
+Keywords:
+Social entrepreneurship
+Social wealth
+Entrepreneurial search process
+Typologies
+Ethics
+
+a b s t r a c t
+Social entrepreneurship has been the subject of considerable interest in the literature. This
+stems from its importance in addressing social problems and enriching communities and
+societies. In this article, we deﬁne social entrepreneurship; discuss its contributions to creating
+social wealth; offer a typology of entrepreneurs' search processes that lead to the discovery of
+opportunities for creating social ventures; and articulate the major ethical concerns social
+entrepreneurs might encounter. We conclude by outlining implications for entrepreneurs and
+advancing an agenda for future research, especially the ethics of social entrepreneurship.
+© 2009 Published by Elsevier Inc.
+
+1. Executive summary
+Social entrepreneurs make signiﬁcant and diverse contributions to their communities and societies, adopting business models
+to offer creative solutions to complex and persistent social problems. We propose that social entrepreneurship “encompasses the
+activities and processes undertaken to discover, deﬁne, and exploit opportunities in order to enhance social wealth by creating new
+ventures or managing existing organizations in an innovative manner".
+In this article, we highlight social wealth as a metric for measuring the contributions of social entrepreneurship within the
+context of total wealth maximization. To us, “total wealth” comprises both economic and social wealth. Our proposed metric,
+therefore, acknowledges that any economic and social value created may offset the economic and social costs incurred. It also takes
+into account the forgone costs of other opportunities not pursued.
+Building on the work of Hayak, Kirzner and Schumpeter, we also identify three types of social entrepreneurs: Social Bricoleur,
+Social Constructionist, and Social Engineer. Social Bricoleurs usually focus on discovering and addressing small-scale local social
+needs. Social Constructionists typically exploit opportunities and market failures by ﬁlling gaps to underserved clients in order to
+introduce reforms and innovations to the broader social system. Finally, Social Engineers recognize systemic problems within
+existing social structures and address them by introducing revolutionary change. As a result, these entrepreneurs often destroy
+dated systems, and replace them with newer and more suitable ones. Given these differences, we propose that these three types of
+☆ We acknowledge with appreciation the supportive comments of Norman Bowie (guest editor), Dan Forbes, Hans Rawhouser, Peter Rich, Harry Sapienza, Sri
+Zaheer, Patricia H. Zahra, anonymous reviewers as well as participants of the University of Minnesota/Journal of Business Venturing Conference on Ethics and
+Entrepreneurship, seminar participants at Texas Christian University and the special Strategic Management Society Conference in Catania, Italy.
+⁎ Corresponding author. Tel.: +1 612 626 6623; fax: +1 612 626 1316.
+E-mail addresses: zahra004@umn.edu (S.A. Zahra), egedajlovic@business.uconn.edu (E. Gedajlovic), don.neubaum@bus.oregonstate.edu (D.O. Neubaum),
+shulman@babson.edu (J.M. Shulman).
+1
+Tel.: +1 860 486 3638.
+2
+Tel.: +1 541 737 6036.
+3
+Tel.: +1 781 239 4446.
+0883-9026/$ – see front matter © 2009 Published by Elsevier Inc.
+doi:10.1016/j.jbusvent.2008.04.007
+
+520
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+social entrepreneurs vary in how they discover social opportunities (i.e., search processes), determine their impact on the broader
+social system, and assemble the resources needed to pursue these opportunities. We also discuss ethical issues unique to each type
+of social entrepreneur.
+A key contribution of our article is highlighting key ethical concerns encountered when uniting economic thinking with the
+desire to generate social wealth. These challenges vary based upon social entrepreneurs' motives, the resources needed to pursue
+their ambitions, as well as the governance and control mechanisms employed to regulate their behaviors. Because the goals of
+social ventures are deeply rooted in the values of their founders, balancing the motives to create social wealth with the need for
+proﬁts and economic efﬁciency can be tricky. Applying new and untested organizational models also raises concerns about the
+accountability of the actors involved. Furthermore, social entrepreneurs operate in domains with scant governance and oversight.
+This enables some to cut ethical corners or place their personal agendas and economic objectives ahead of the ﬁduciary needs of
+their clients. We conclude by outlining key implications for social ventures' founders and entrepreneurs. We also offer an agenda
+for future research on the ethics of social entrepreneurship.
+Social entrepreneurship is an important topic that has sparked ongoing discussion and debate (Austin et al., 2006). Some
+scholars have begun to delineate the distinct domain of this phenomenon, examine its potential to address social problems, and
+explore its implications for wealth creation (Austin et al., 2006; Bornstein, 2004; Davis, 2002; Dees et al., 2004; MacMillan, 2005).
+To some, social entrepreneurship offers innovative solutions to complex and persistent social issues by applying traditional
+business and market-oriented models (Spear, 2006; Dorado, 2006; Mair and Noboa, 2003; Pearce and Doh, 2005). As such, social
+entrepreneurship provides an alternative to a culture of greed and selﬁshness (Hemingway, 2005; Mintzberg et al., 2002). Still,
+others view social entrepreneurship as a vague and poorly understood concept (Martin and Osberg, 2007) whose practice raises
+thorny ethical concerns (Fowler, 2000). These issues reﬂect the unique values that social entrepreneurs hold and the search
+processes they follow in identifying, evaluating and exploiting opportunities.
+In this article, we have two objectives. First, we build on the work of Hayek (1945), Kirzner (1973) and Schumpeter (1934) to
+advance a typology that identiﬁes three types of social entrepreneurs. These entrepreneurs vary in how they deﬁne opportunities,
+view their missions, acquire resources, and address social ills. Second, we use the proposed typology of social entrepreneurs to
+explore various ethical issues encountered in practice. Entrepreneurial activities are often associated with the opportunity to cut
+ethical corners (Barendsen and Gardner, 2004; Kuratko and Goldsby, 2004). Yet, balancing social wealth with the desire to make
+proﬁts and maintain economic efﬁciency is no simple matter. The new and untested organizational models that social
+entrepreneurs follow often raise concerns about their accountability and contributions. To fully appreciate these concerns, we ﬁrst
+discuss the importance and domain of social entrepreneurship.
+2. The importance and domain of social entrepreneurship
+Throughout the world, socially conscious individuals have introduced and applied innovative business models to address social
+problems previously overlooked by business, governmental and non-governmental organizations (NGOs). These entrepreneurs
+have played a vital role in ameliorating adverse social conditions, especially in underdeveloped and emerging economies where
+resource scarcity and corruption among governments and even NGOs severely limit the attention given to serious social needs
+(Prahalad, 2005; Zahra et al., in press). Social entrepreneurs have also become highly visible agents of change in developed
+economies, where they have applied innovative and cost-effective methods to address nagging social problems (i.e., poverty,
+gender inequality, etc.) that have deﬁed traditional solutions (Cox and Healey, 1998). The movement by several countries to
+“marketize” the social service sector (Salamon, 1999) has also fueled the desire to use the efﬁciency of competitive markets to
+improve social performance (Goerke, 2003; Zahra et al., 2000). Several governments, including that of the US, have also
+dramatically cut federal spending on social services such as education and community development (Lasprogata and Cotton,
+2003), creating a need for entrepreneurial activities to raise funds and address social needs.
+The global movement toward privatization and marketization has also profoundly inﬂuenced not-for-proﬁt organizations and
+NGOs, pressuring them to address the gaps left in the provision of social services. Though funding for these activities from
+traditional sources has declined (Wolverton, 2003), the costs of delivering these programs have increased (Leadbetter, 1997).
+Consequently, more and more not-for-proﬁt organizations attend to an expanding set of complex social needs, yet rely on fewer
+funds. This has prompted some not-for-proﬁts to apply entrepreneurial strategies and business models. This includes forming
+collaborative relationships to ﬁnance and operate programs that pursue their social missions (Foster and Bradach, 2005; Chell,
+2007; Pearce and Doh, 2005). These institutional changes have also given rise to a variety of social ventures (Dorado, 2006;
+Thompson and Doherty, 2006).
+Despite the growing scholarly interest in social entrepreneurship (Hemingway, 2005), there is no clear deﬁnition of its domain.
+This task has been complicated by social entrepreneurship's numerous manifestations, and the breadth of the scholarly
+communities studying the subject. Furthermore, the term itself combines two ambiguous words connoting different things to
+different people (Mair and Marti, 2004). Disagreements persist about the domain of entrepreneurship (Shane and Venkataraman,
+2000; Zahra and Dess, 2001) and adding the value-laden preﬁx “social” further exacerbates this deﬁnitional debate. Table 1 presents
+20 deﬁnitions and descriptions of social entrepreneurship or social entrepreneurs found in the literature. In presenting these
+deﬁnitions, we do not strive to ﬁnd a statement encompassing all aspects of these diverse deﬁnitions. Rather, we provide a deﬁnition
+that integrates common points of view and facilitates the development of a heuristic to measure the creation of total wealth.
+Entrepreneurs, including those who have found and lead social ventures, usually pursue multiple goals that include a diverse
+set of personal objectives (Kahneman and Tversky, 1979; Baker et al., 2005). Commercial entrepreneurs are largely driven by
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+521
+
+Table 1
+Deﬁnitions and descriptions of social entrepreneurship and social entrepreneurs.
+Source
+
+Deﬁnition
+
+Leadbetter (1997)
+
+The use of entrepreneurial behavior for social ends rather than for proﬁt objectives, or alternatively, that the proﬁts generated from
+market activities are used for the beneﬁt of a speciﬁc disadvantaged group.
+Thake and Zadek (1997)
+Social entrepreneurs are driven by a desire for social justice. They seek a direct link between their actions and an improvement in the
+quality of life for the people with whom they work and those that they seek to serve. They aim to produce solutions which are
+sustainable ﬁnancially, organizationally, socially and environmentally.
+Dees (1998)
+Play the role of change agents in the social sector, by: 1) Adopting a mission to create and sustain social value (not just private value),
+2) Recognizing and relentlessly pursuing new opportunities to serve that mission, 3) Engaging in a process of continuous innovation,
+adaptation, and learning, 4) Acting boldly without being limited by resources currently in hand, and 5) Exhibiting heightened
+accountability to the constituencies served and for the outcomes created.
+Reis (1999)
+Social entrepreneurs create social value through innovation and leveraging ﬁnancial resources…for social, economic and community
+(Kellogg Foundation)
+development.
+Fowler (2000)
+Social Entrepreneurship is the creation of viable socio-economic structures, relations, institutions, organizations and practices that
+yield and sustain social beneﬁts.
+Brinkerhoff (2001)
+Individuals constantly looking for new ways to serve their constituencies and add value to existing services
+Mort et al. (2002)
+A multidimensional construct involving the expression of entrepreneurially virtuous behavior to achieve the social mission…the
+ability to recognize social value creating opportunities and key decision-making characteristics of innovation, proactiveness and risktaking
+Drayton (2002)
+A major change agent, one whose core values center on identifying, addressing and solving societal problems.
+Alford et al. (2004)
+Creates innovative solutions to immediate social problems and mobilizes the ideas, capacities, resources and social arrangements
+required for social transformations
+Harding (2004)
+Entrepreneurs motivated by social objectives to instigate some form of new activity or venture.
+Shaw (2004)
+The work of community, voluntary and public organizations as well as private ﬁrms working for social rather than only proﬁt
+objectives.
+Said School (2005)
+A professional, innovative and sustainable approach to systematic change that resolves social market failures and grasps
+opportunities
+Fuqua School (2005)
+The art of simultaneously pursuing both a ﬁnancial and a social return on investment (the “double” bottom line)
+Schwab Foundation (2005) Applying practical, innovative and sustainable approaches to beneﬁt society in general, with an emphasis on those who are
+marginalized and poor.
+NYU Stern (2005)
+The process of using entrepreneurial and business skills to create innovative approaches to social problems. “These non-proﬁt and for
+proﬁt ventures pursue the double bottom line of social impact and ﬁnancial self-sustainability or proﬁtability.”
+MacMillan (2005)
+Process whereby the creation of new business enterprise leads to social wealth enhancement so that both society and the
+(Wharton Center)
+entrepreneur beneﬁt.
+Tan et al. (2005)
+Making proﬁts by innovation in the face of risk with the involvement of a segment of society and where all or part of the beneﬁts
+accrue to that same segment of society.
+Mair and Marti (2006a)
+…a process of creating value by combining resources in new ways…intended primarily to explore and exploit opportunities to create
+social value by stimulating social change or meeting social needs.
+Peredo and McLean (2006) Social entrepreneurship is exercised where some person or group….aim(s) at creating social value…shows a capacity to recognize
+and take advantage of opportunities…employ innovation…accept an above average degree of risk…and are unusually resourceful …
+in pursuing their social venture.
+Martin and Osberg (2007) Social entrepreneurship is the: 1) identiﬁcation a stable yet unjust equilibrium which the excludes, marginalizes or causes suffering
+to a group which lacks the means to transform the equilibrium; 2) identiﬁcation of an opportunity and developing a new social value
+proposition to challenge the equilibrium, and 3) forging a new, stable equilibrium to alleviate the suffering of the targeted group
+through imitation and creation of a stable ecosystem around the new equilibrium to ensure a better future for the group and society.
+
+proﬁts (Knight, 1921; Schumpeter, 1934; Kirzner, 1973) and their performance is typically measured by ﬁnancial returns (Austin et
+al., 2006). Social entrepreneurs often espouse both social and economic goals in pursuing a particular opportunity (e.g., Dorado,
+2006; Thompson and Doherty, 2006).
+It is noteworthy that the deﬁnitions we gathered from entrepreneurship centers at some leading business schools usually cite a
+double bottom line, placing social and economic dimensions on an equal footing (Table 1). For example, the Wharton Center, NYU
+Stern and the Fuqua School all emphasize doing well ﬁnancially by doing good. However, other deﬁnitions shown in Table 1
+suggest that social entrepreneurs are strongly motivated to achieve some socially desirable objectives. These latter deﬁnitions
+stress the creation of social wealth (Dees, 1998; Reis, 1999; Mort et al. 2002; Mair and Marti, 2006a; Peredo and McLean, 2006;
+Martin and Osberg, 2007), total wealth (Fowler, 2000; Schwab Foundation, 2005; Tan et al., 2005), social justice (Thake and Zadek,
+1997), or the resolution of certain social problems (Drayton, 2002; Alford et al., 2004; Said School, 2005). On the whole, most
+existing deﬁnitions imply that social entrepreneurship relates to exploiting opportunities for social change and improvement,
+rather than traditional proﬁt maximization.
+Social entrepreneurship offers the quintessential example of how diverse motives (Spear, 2006) can inspire individuals to
+conceive, build and operate organizations that address personally important issues. This belief builds on Cyert and March's
+(1963:9) observation that “entrepreneurs, like anyone else, have a host of personal motives,” reﬂecting both economic and noneconomic goals. Following this logic, organizations pursuing proﬁts as their sole objective often fall outside the domain of
+social entrepreneurship. Similarly, for-proﬁt ﬁrms engaged in philanthropic endeavors or socially responsible activities would
+generally lie outside the boundaries of social entrepreneurship. Likewise, not-for-proﬁt organizations, social service organizations
+or NGOs ignoring the economic implications of their operations would generally also lie outside the boundaries of social
+entrepreneurship.
+
+522
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+Even though the deﬁnitions listed in Table 1 reinforce the essential social dimensions and mixed motives of social
+entrepreneurs, they are silent on how to evaluate such opportunities and ventures. Obviously, metrics related to proﬁtability or
+returns on investment are relatively straightforward standards by which opportunities and organizational performance are
+evaluated. However, similar standards are missing in the case of social entrepreneurship. The absence of such standards, along with
+the vagueness of the “social” preﬁx, creates a situation where just about any venture could be considered “social
+entrepreneurship.” Further, without an appropriate metric, attempts to hold practitioners of social entrepreneurship accountable
+for their performance will be ineffective.
+In reﬂecting on the 20 deﬁnitions presented in Table 1, we believe any deﬁnition, measurement or evaluation of social
+entrepreneurship should reﬂect both social and economic considerations. We, therefore, propose the broader term “total wealth”
+as a standard to evaluate those opportunities and organizational processes related to social entrepreneurship. To us, “total wealth,”
+has tangible (e.g., products, clients served, or funds generated) and intangible outcomes such as wealth, happiness and general
+well-being. Thus, Total Wealth (TW) = Economic Wealth (EW) + Social Wealth (SW). Further, TW = EW + SW, where
+EW = Economic Value (EV) − Economic Costs (EC) − Opportunity Costs (OC); SW Social Wealth = Social Value (SV) − Social
+Costs (SC). As a result, TW = EV + SV − (EC + OC + SC).
+Our proposed “total wealth” standard accounts for both the social and economic dimensions of social entrepreneurship across
+varying levels of participation. It also provides for the social value created by some for-proﬁt entities (Table 1), making it clear how
+both economic and social wealth can be created by entrepreneurial entities in the pursuit of total wealth maximization. Further,
+the “total wealth” standard indicates how entrepreneurs can potentially shift resources in a manner that enhances wealth in one
+category at the expense of another (e.g., pursue economic wealth while polluting the environment). It also underscores how the
+social value created by entrepreneurs may be offset by economic costs (i.e., the market value of goods and services spent to create
+social value) as well as the social costs (e.g., social discord) incurred in generating social value. Given the scarcity of human and
+ﬁnancial resources, any evaluation of social wealth creation should also account for opportunity costs — the social and economic
+value forgone if these resources had been applied to other productive endeavors.
+In sum, the “total wealth” standard illustrates how entrepreneurial entities can have various gradations or combinations of both
+economic and social wealth generation. At one extreme, an entrepreneurial entity may focus purely on economic wealth creation
+without regard to social wealth creation. At the other extreme, however, a social entrepreneur may dedicate his (her) resources
+exclusively to social wealth generation, ignoring economic wealth creation. This is consistent with the deﬁnitions displayed in
+Table 1 that show an array of combinations of social entrepreneurial activities with varying emphases on economic wealth or social
+wealth development.
+The “total wealth” standard, with its demarcation of economic and social wealth, can be useful for scholars, donors and
+practitioners as they evaluate both economic and social opportunities and ventures. It can also provide a benchmark for evaluating
+the performance of economic and social ventures based on desired performance goals or performance relative to other
+organizations. This standard can also guide social entrepreneurs as they identify the value of the opportunities they decide to
+pursue. Donors can also apply this standard to monitor and hold social entrepreneurs accountable or focus their ventures on
+achieving better outcomes.
+Still, the social wealth standard is imprecise and difﬁcult to measure because many of the products and services that social
+entrepreneurs provide are non-quantiﬁable. For instance, what is the social value of clean water in remote villages, the adoption of
+orphans from wartorn nations or the empowerment of women entrepreneurs in oppressive societies? Further complicating the
+task of determining social wealth is the subjective nature of social value itself, which varies greatly from one context to another
+(Baker et al., 2005). Still, the social wealth standard offers a promising heuristic for evaluating social opportunities and ventures. It
+also delineates the distinctiveness and contribution of social entrepreneurship.
+The literature also underscores the importance of the capacity of those involved in discovering and pursuing social
+opportunities for venture success (Dees, 1998; Brinkerhoff, 2001; Mort et al. 2002; Schwab Foundation, 2005; NYU Stern, 2005;
+Mair and Marti, 2006a; Peredo and McLean, 2006). The successful pursuit of social entrepreneurs' mission requires that they
+effectively perform a variety of activities — some innovative and some decidedly mundane (e.g., bookkeeping). However, many of
+the descriptions presented in Table 1 highlight only those activities directly related to the innovative delivery of products and
+services (Reis, 1999; Mort et al. 2002; Alford et al., 2004; Harding, 2004; Mair and Marti, 2006a,b; Peredo and McLean, 2006).
+Consequently, those individuals and organizations not actively engaged in innovative means of delivering products and services
+fall outside the ﬁeld of social entrepreneurship.
+To summarize, deﬁning social entrepreneurship requires appreciating the motivations of individuals and groups who take the
+risks associated with conceiving, building, launching and sustaining new organizations and business models. This means certain
+individuals with particular values, capabilities and skills will be attracted to social entrepreneurship, search for opportunities, and
+innovative organizational responses to create social wealth. By integrating these observations, we suggest the following deﬁnition:
+Social entrepreneurship encompasses the activities and processes undertaken to discover, deﬁne, and exploit opportunities in order to
+enhance social wealth by creating new ventures or managing existing organizations in an innovative manner.
+3. Typology of social entrepreneurship
+Our proposed deﬁnition of social entrepreneurship underscores the diverse motives, the types of ventures created, and
+organizational activities (or strategies) designed to enhance social wealth. After all, entrepreneurial discovery is as much about
+problem ﬁnding as problem solving. This means different types of social entrepreneurs exist, addressing speciﬁc social problems in
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+523
+
+their own ways and within their own realms. Some might be the grand visionaries who identify big or even worldwide social
+causes and mobilize forces to tackle these concerns (Zahra et al., in press). In fact, one of the greatest skills of many social
+entrepreneurs is their ability to inspire, marshal and mobilize the efforts of commercial and non-commercial partners, donors,
+volunteers and employees in the pursuit of social wealth. Building collaborative relationships to implement social initiatives is
+often crucial for success (Pearce and Doh, 2005). Other social entrepreneurs might be more adept at creating organizations that
+tackle these issues. Still, some entrepreneurs focus more on local issues. Given this variability, we present a typology that reﬂects
+the diversity of social entrepreneurs. The three types we deﬁne, however, do not capture all potentially observable varieties of
+social entrepreneurship. Still, our typology sets the stage for recognizing the potential antecedents, processes and consequences of
+different types of social entrepreneurship.
+As a point of departure in developing our typology, we build alternative conceptualizations of entrepreneurship derived from
+Hayek (1945), Kirzner (1973) and Schumpeter (1942). The typology allows us to identify similarities and differences among the
+broad range of individuals and organizations engaged in social entrepreneurship. As a result, we provide illustrative examples of
+these three types of social entrepreneurs: Social Bricoleurs, Social Constructionists and Social Engineers. Though these
+entrepreneurs share a passion for pursuing social issues, major differences exist among them in how they discover social needs
+(i.e., search processes), pursue social opportunities, and impact the broader social system. We also discuss the types of resources
+these entrepreneurs garner and deploy in pursuing particular opportunities. Table 2 summarizes the key differences among the
+three social entrepreneurial types.
+3.1. The Social Bricoleur
+Hayek's (1945) work highlights the critical role private, local knowledge or contextual information play in the entrepreneurial
+process. Rather than describing markets as rational, broadly understood and predictable arenas, Hayek emphasizes the ‘kaleidic’
+
+Table 2
+A typology of social entrepreneurship.
+Type
+
+Social Bricoleur
+
+Social Constructionists
+
+Social Engineer
+
+Theoretical
+inspiration
+
+Hayek
+
+Kirzner
+
+Schumpeter
+
+What they do?
+
+Perceive and act upon opportunities to address Build and operate alternative structures to
+provide goods and services addressing social
+a local social needs they are motivated and
+needs that governments, agencies, and
+have the expertise and resources to address.
+businesses cannot.
+
+Creation of newer, more effective social
+systems designed to replace existing ones
+when they are ill-suited to address signiﬁcant
+social needs.
+
+Scale, scope
+and timing
+
+Small scale, local in scope—often episodic in
+nature.
+
+Why they are
+necessary?
+
+Small to large scale, local to international in
+scope, designed to be institutionalized to
+address an ongoing social need.
+Knowledge about social needs and the abilities Laws, regulation, political acceptability,
+inefﬁciencies and/or lack of will prevent
+to address them are widely scattered. Many
+existing governmental and business
+social needs are non-discernable or easily
+organizations from addressing many
+misunderstood from afar, requiring local
+important social needs effectively.
+agents to detect and address them.
+
+Very large scale that is national to international
+in scope and which seeks to build lasting
+structures that will challenge existing order.
+Some social needs are not amenable to
+amelioration within existing social structures.
+Entrenched incumbents can thwart actions to
+address social needs that undermine their own
+interests and source of power.
+
+Social
+Signiﬁcance
+
+Collectively, their actions help maintain social
+harmony in the face of social problems
+
+They seek to rip apart existing social structures
+and replace them with new ones. They
+represent an important force for social change
+in the face of entrenched incumbents.
+Fractures existing social equilibrium and seeks
+to replace it with a more socially efﬁcient one
+
+They mend the social fabric where it is torn,
+address acute social needs within existing
+broader social structures, and help maintain
+social harmony.
+Effect on Social Atomistic actions by local social entrepreneurs Addressing gaps in the provision of socially
+signiﬁcant goods and service creates new
+Equilibrium
+move us closer to a theoretical “social
+“social equilibriums.”
+equilibrium.”
+They address needs left un- addressed and
+Source of
+Being on the spot with the skills to address
+have limited/no competition. They may even
+Discretion
+local problems not on others' ”radars.” Local
+be welcomed and be seen as a “release valve”
+scope means they have limited resource
+requirements and are fairly autonomous. Small preventing negative publicity/social
+scale and local scope allows for quick response problems that may adversely affect existing
+governmental and business organizations.
+times.
+Limits to
+Discretion
+
+Not much aside from local laws and
+regulations. However, the limited resources
+and expertise they possess limit their ability to
+address other needs or expand geographically.
+
+Need to acquire ﬁnancial and human
+resources necessary to fulﬁll mission and
+institutionalize as a going concern. Funder
+demands oversight. Professional volunteers
+and employees are needed to operate
+organization.
+
+Popular support to the extent that existing
+social structures and incumbents are incapable
+of addressing mportant social needs.
+
+Seen as fundamentally illegitimate by
+established parties that see them as a threat,
+which brings scrutiny and attempts to
+undermine the ability of the social engineers to
+bring about change. The perceived illegitimacy
+will inhibit the ability to raise ﬁnancial and
+human resources from traditional sources. As a
+consequence, they may become captive of the
+parties that supply it with needed resources.
+
+524
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+nature of the landscape, inhabited by individuals with minds unobservable and inaccessible to external actors. Hayek also views
+efforts to recognize widespread opportunities as an impossible task because most of the knowledge entrepreneurs possess does
+not exist outside their local context.
+Following this premise, Hayek proposes that entrepreneurial opportunities can only be discovered and acted upon at a very
+local level. The implication is that distant actors generally lack the relevant facts and knowledge essential to identify, frame and
+evaluate a potential opportunity. This knowledge is usually tacit in nature, severely limiting outsiders' recognition of opportunities.
+This tacit feature leads some individuals to make informed and intuitive judgments based on data not easily codiﬁed or transferred
+between individuals or across organizations (Nelson and Winter, 1982; Conner and Prahalad, 1996).
+Complementary to Hayek's position of entrepreneurship as a result of idiosyncratic, local or tacit knowledge is Levi-Strauss'
+(1966) concept of bricolage. Weick (1993) deﬁnes bricolage as the use of “whatever resources and repertoires one has to perform
+whatever tasks one faces” (p. 353). Baker and Nelson (2005) also consider bricolage characteristically entrepreneurial because it
+involves combining existing resources to solve problems and leverage new opportunities. Consistent with Hayek's premise of
+asymmetric knowledge, successful bricolage requires intimate knowledge of both local environmental conditions and locally
+available resources. We call entrepreneurs who act on locally discovered opportunities with locally available resources Social
+Bricoleurs.
+Social Bricoleurs perform important functions. Without them, many indiscernible or unrecognizable social needs would remain
+unaddressed. Even though the solutions they craft are sometimes small in scale and limited in scope, they help assuage serious
+local social problems. As a result, Social Bricoleurs move us closer to what Parsons (1971) described as an ideal “social equilibrium”
+where social peace and order exist. These entrepreneurs derive their power to act from being in the right place at the right time, as
+well as possessing the skills to address needs not on the radar screens of larger and less proximate parties. Like the other social
+entrepreneurs described in this article, Social Bricoleurs are motivated to address social needs. Yet, because of their localized and
+oftentimes tacit knowledge, Social Bricoleurs are uniquely positioned to discover local social needs where they can leverage their
+motivation, expertise and personal resources to create and enhance social wealth. Though not as heralded as other entrepreneurs,
+Social Bricoleurs perform important social functions around the globe.
+Paradoxically, Social Bricoleurs are often more difﬁcult for researchers to locate because their actions are usually based on local
+knowledge. Consequently, they resist broad recognition or even comprehension by governments and the media. Further, given that
+they are less concerned with broad applications, organizations that support social entrepreneurs emphasizing scalability may fail
+to appreciate the contributions of Social Bricoleurs.
+Oswaldo Tello, a social entrepreneur in Chiclayo, a city in northern Peru, is an example of the Social Bricoleur entrepreneur
+(Rawhouser, 2007). In 2006, he founded a non-proﬁt organization, the Center for Innovation and Business Development (CIDE),
+and a proﬁt-focused ﬁrm, North Peru Investment Company. Oswaldo wanted to provide a focused solution to poverty by helping
+the poor with the desire to succeed at business. The two organizations work to identify a few businesses that have the capacity to
+grow, while giving interested investors and business managers the opportunity to share in the risk and reward of the ventures in a
+“micro venture capital-type” adaptation for the poor.
+Oswaldo had been a bank ofﬁcer before joining a small microcredit institution that functioned with a sister organization in the
+US that organized volunteer expeditions that combine tourism, service, and support for micro-entrepreneurs associated with the
+program. Unlike many other parts of the world where a lone microﬁnance institution is the only lending alternative to local loan
+sharks, multiple microﬁnance institutions in northern Peru compete to lend to the poor. In this environment, Oswaldo's
+organization has focused on helping each borrower form a successful business and raise himself/herself from poverty, rather than
+just providing easier access to loans for the poor.
+Over time, Oswaldo had become dissatisﬁed with the progress made by the microcredit institution, despite intense applicant
+screening, vetting of participants through shared religious afﬁliation and personal references, extensive business training, and
+signiﬁcant managerial support. Oswaldo noticed two problems with the local application of the microcredit model. First, some
+micro-entrepreneurs had business ideas that had much greater success and potential than most of those who continued to
+struggle. Second, the organizations' intensive training and support failed to properly align the goals of the borrowers and the loan
+ofﬁcers. Inﬂuenced by writings on new ideas of microfranchising and suggestions of the possibility that venture capital principles
+could be applied to microbusiness contexts, Oswlado created an organization that could easily reach and train the needy.
+Oswaldo has devoted himself to exploiting opportunities at a very local level, helping people in Northern Peru. The knowledge
+needed to accomplish this objective is also intensely local. Northern Peru is quite isolated from Lima, the only location in the
+country where venture capital ﬁrms exist. Living in the region all his life, his experience has helped him to know and appreciate the
+business opportunities, which differ even from the more progressive capital, Lima. His local experience and connections have made
+the new venture possible. The success that Oswaldo has experienced also reﬂects his own resources and motivations. Having
+formerly served as a lay church leader in charge of much of the region, Oswaldo has extensive contacts across several groups and
+even industries. He has also worked to piece these resources together to beneﬁt the poor. For example, the ﬁrst business
+opportunity for the organization came as he was performing a consulting project for a service company in Lima that is owned by a
+family from Chiclayo. Leveraging his contacts in Chiclayo, Oswaldo was able to assess the problems with their courier service and
+could see an opportunity to franchise that service in a way that might help several families build a business. Oswaldo's prior
+experience in banking also provided valuable knowledge and connections in Lima. His experience with microﬁnancing in Northern
+Peru also increased his awareness of the unique proﬁtable opportunities that could be captured. Finally, though Oswaldo had
+signiﬁcant resources that are applicable to the opportunity, his resource limitations were typical of Social Bricoleurs. For example,
+given his lack of ﬁrst-hand venture capital experience, he has pieced together a consulting team from Wharton undergraduates
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+525
+
+and philanthropists in the US with venture capital experience. His experience in business and banking in Lima, and knowledge of
+members of his church in northern Peru proved to be major assets in creating a new social venture (Rawhouser, 2007).
+As the preceding example would indicate, Social Bricoleurs are especially clever in assembling and deploying resources in
+pursuit of their chosen causes. For example, within days after visiting the coastal areas destroyed by Hurricane Katrina, Paige
+Ellison-Smith launched Project K.I.D. — Responding to Kids in Devastation. Her career as a child care trainer for the US Armed
+Services, mixed with her personal experience seeing unattended children playing in dangerous ﬂoods and debris, prompted Paige
+to create Project K.I.D. to provide specialized day-care to children in several Gulf communities. Within four months, she cobbled
+together 220 volunteers (many of them were displaced teens also needing safety and shelter), an innovative feature that kept costs
+low, creating 12 “PlayCare” sites, serving over 5600 children. Similarly, the Benedictine Sisters of Erie found an abandoned garage
+to rent in downtown Erie and asked local experts to lead visual, performing and literary arts programs to at-risk inner-city children.
+Other Social Bricoleurs educate local farmers about new planting, irrigation or harvesting techniques. Programs such as these
+are made possible by the distinct local and tacit knowledge of enterprising people crafting small-scale and simple collaborative
+solutions to address the social needs that exist in their local communities. In those situations where important relevant knowledge
+is both local and tacit, Social Bricoleurs can usually address social needs more effectively than larger and more complex
+organizations. What differentiates Social Bricoleurs from other social service providers is the unique manner in which they identify
+local opportunities, marshal necessary resources, and deliver services to the disadvantaged.
+In organizing their ventures, Social Bricoleurs typically require neither external nor specialized resources. They often rely on
+whatever resources that are readily harnessed (Weick, 1993). This characteristic differs markedly from other types of social
+entrepreneurs, who typically depend on numerous external suppliers to achieve their objectives. Independence from others also
+enables Social Bricoleurs to operate freely from resource suppliers who sometimes attempt to constrain their efforts or impose
+their own agendas (Pfeffer and Salancik, 1978). Given their improvised strategies and absence of strong ties to resource suppliers,
+Social Bricoleurs can be effective at self-correction (Weick, 1993), responding quickly to changing circumstances. However,
+reliance on readily available resources and improvisation rather than formal planning sometimes prevents Social Bricoleurs from
+addressing larger needs and scaling up their operations or expanding geographically. Thus, just as the uniqueness of their own local
+knowledge and capacity to improvise provide the fuel for their discoveries, the ability of Social Bricoleurs to expand is often limited
+by their own ignorance of social needs and opportunities outside the realm of their knowledge.
+
+3.2. The Social Constructionist
+According to Kirzner (1973), opportunities do not necessarily arise from an entrepreneur's speciﬁc local knowledge, but rather
+from their alertness to opportunities which they leverage by developing products, goods and services. Entrepreneurs, therefore,
+construct and introduce “systemic changes in expectations concerning ends and means” (Kirzner, 1973: 71). By introducing
+innovations, Kirznerian entrepreneurs successfully and proﬁtably exploit opportunities by addressing those customer needs not
+yet realized by current providers. Though commercial entrepreneurs seek proﬁts by quickly identifying and exploiting market
+opportunities, the needs that Social Constructionists identify and pursue typically center on creating social wealth. Filling such
+holes in the fabric of social systems is a vital entrepreneurial function (Fowler, 2000; Teegen et al., 2004).
+We call social entrepreneurs who perform these functions Social Constructionists because they build, launch and operate
+ventures which tackle those social needs that are inadequately addressed by existing institutions, businesses, NGOs and
+government agencies.
+The need for these organizations arises because for-proﬁt businesses often do not have the incentive or the basis to address
+social problems (Thompson et al., 2000). Thus, though the term “social constructionist” frequently invokes other meanings, we use
+it to denote the type of social entrepreneur we have just described.
+Kirzner (1973) emphasizes how entrepreneurs have to be alert to opportunities and be bold and innovative in their actions
+(Carney, in press). They often act as if they can accurately forecast future events and bring about a future desired state (Wood,
+2005). Successful Social Constructionists often have these same characteristics (Dees, 1998; Prabhu, 1999; Johnson, 2002). They
+also develop organizations to match the scale and scope of the social needs they seek to address. In some cases, the effective
+organizational response can be quite small, but in many others, the response could be regional, national or even global in scope
+(Brinkerhoff and Brinkerhoff, 2004).
+In contrast to Social Bricoleurs who improvise solutions to small-scaled local social problems, Social Constructionists seek to
+remedy broader social problems by planning and developing formalized or systemized scalable solutions to meet growing needs or
+could be transferred to new and varied social contexts (Grant, 1996). These entrepreneurs' advantages do not stem from local
+knowledge; they result from their unique capacity to spot and pursue those opportunities that generate social wealth by creating
+and reconﬁguring the processes enacted to deliver goods and services.
+Jacqueline Novogratz offers an example of the Social Constructionist entrepreneur. In 2001, Novogratz founded Acumen Fund,
+“a non-proﬁt venture fund that uses entrepreneurial approaches to solve the problems of global poverty (Acumen, 2007).” The USbased fund targets its philanthropic “investments” to entrepreneurs and organizations that are “focused on delivering critical,
+affordable goods and services — such as water, healthcare, and housing” to help improve the lives of the poor. Acumen's “few big
+bets” receive support mostly in the form of loans and equity investments that are supplemented by providing management
+assistance and connections to broader resource networks. The expectation is that these entrepreneurial ﬁrms in the developing
+world have large-scale potential.
+
+526
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+Novogratz insists that Acumen work with entrepreneurs who have systemized and scalable solutions that work on broader
+social problems that ultimately inﬂuence poverty directly. She states: “To do it right (help the poor), we have to build business
+models that matter, that are scalable, and that work with Africans, Indians, people all over the developing world who ﬁt in this
+category (Novogratz, 2005)”. In founding Acumen Fund, Novogratz showed an alertness to opportunities to exploit market failures.
+Having worked in international banking and established a microﬁnance institution in Rwanda, she understood that some of the
+paradoxes of developing countries could be solved by learning business “acumen” from the industrialized world. For example,
+Novogratz noticed that the poor pay 30 to 40 times as their middle-class counterparts for water, housing and health costs. She also
+bet that using venture capital-like decision-making and investing patterns would reduce these costs.
+In many ways, Novogratz's approach to addressing poverty is that of an arbitrageur of knowledge. She brings appropriate
+knowledge, skills and resources from two different locations together to solve a widespread but speciﬁc problem. Her organization
+appreciates and embraces the knowledge of local entrepreneurs to operate within existing local institutions. For example, to
+improve access to malaria drugs and at the same time more effectively incorporate small Kenyan farmers into the market economy,
+Acumen Fund has helped to reach an agreement with a multinational drug company to buy the artemisia (used to create antimalaria drugs) grown by 7500 local farmers. Rather than ﬁghting against the drug company, Acumen has worked with them.
+Instead of building a large ﬁrm, Acumen has opted to work with the existing small-scale farmers.
+While Social Constructionists may face limited competition in the delivery of their programs, competition for required
+resources is often intense (Wolverton, 2003). The scope of the social needs to be addressed usually requires developing fairly large
+and complex organizations with considerable ﬁnancing and stafﬁng needs. Governments, NGOs and charitable foundations are the
+traditional sources of funding for these entrepreneurs (Teegen et al., 2004). In today's dynamic and challenging environment,
+collaborative social initiatives that leverage the resources and capabilities of for-proﬁt and not-for-proﬁt organizations can
+generate mutually beneﬁcial outcomes (Pearce and Doh, 2005).
+Acquiring resources through collaborative ventures often helps Social Constructionists build, maintain and grow their
+organizations. However, acquiring resources from such diverse sources may also constrain or even alter their missions. Oversight
+and the reporting procedures of donor organizations can also result in outsiders having a signiﬁcant voice in how their funding is
+used (Brown and Moore, 2001). Still, Social Constructionists often have to develop and hone a capability to raise funds, possibly
+diverting their attention away from their primary mission. The need to staff the organization can also inﬂuence the fate of this
+mission as the professional employees and volunteers begin to exert control over its operations, strategies and activities (Glaeser,
+2002).
+The need to acquire substantial resources also presents Social Constructionists with a paradox in managing and sustaining their
+organizations. These ﬁnancial and human resources are essential to accomplishing their mission, but acquiring these resources can
+be challenging (Dichter, 1999). Social Constructionists need to attract the necessary capital to fulﬁll their missions, but must do so
+without signiﬁcantly altering or diluting them. They also need to effectively manage the web of complex and evolving relationships
+between their organizations, donors, professional employees, and volunteers as they pursue their social missions.
+3.3. The Social Engineer
+Sometimes compelling social needs are not amenable to solutions within existing institutions. These institutions might be
+inadequate, or entrenched governments and business elites might thwart actions intended to bring about reforms (Carney and
+Gedajlovic, 2002). We call entrepreneurs who tackle these complex problems Social Engineers. These entrepreneurs differ
+signiﬁcantly from the other two social entrepreneurs we have just described because they identify systemic problems within the
+social systems and structures and address them by bringing about revolutionary change.
+Social Engineers often introduce dramatic changes in the social sphere, resembling what Schumpeter's (1942) entrepreneurs
+perform in the world of business enterprise. They act as prime movers of innovation and change, engendering “gales of creative
+destruction” to destroy dated systems, structures and processes to be replaced by newer and more suitable ones. By fracturing
+existing and often dominant institutions and replacing them with more socially efﬁcient ones, Social Engineers can have a
+profound inﬂuence on society. Consequently, they can be a powerful force for social change. This is especially true where
+entrenched incumbents and prevailing practices have become formidable barriers to reform. Given the “systemic” nature of the
+problems they target, Social Engineers often attack national, transnational or global social issues. The revolutionary and ideological
+nature of the reforms they introduce are usually a threat to the interests of established institutions, and are sometimes seen as
+subversive and illegitimate. The large scope and scale of their ambitions, as well as the deﬁcits of legitimacy they might face,
+requires Social Engineers to harness popular support to fulﬁll their missions. As a result, their capacity to act rests on their ability to
+amass sufﬁcient political capital to assemble other necessary resources and achieve legitimacy.
+Muhammad Yunus, who founded Grameen Bank, is one of the best known examples of a far-reaching Social Engineer. Because
+of his efforts with the Grameen Bank (Bornstein, 1996), Yunus received the 2006 Nobel Peace Prize. After returning from graduate
+studies in the US to be a university professor in Bangladesh, Yunus was impelled by the rampant poverty to take action. He began
+speaking with the Bangladeshi poor, soon realizing that they were trapped in a vicious cycle of debt to moneylenders. Yunus went
+to his friends at banks, but none wanted to lend money to the poor. As a result, Yunus decided in 1976 to loan $27 to 42 women
+from the village of Jobra, India (Yunus, 1998).
+This could have been another story of a Social Bricoleur focused on a local problem, but Yunus' focus evolved to changing deeply
+entrenched institutions, not from within the existing system, but from outside. Yunus followed a strategy that contradicted
+prevailing practice by targeting poor women and offering small loans. Internal processes of the new bank emphasized speedy
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+527
+
+decision-making, simpliﬁed paperwork and reliance on trust. Further, instead of working with the government to provide access to
+ﬁnance, or working with the U.N. or World Bank, Yunus kept Grameen Bank independent and his workers as different as possible
+from government ofﬁcials. Although he had friends in government and ﬁnancial institutions, remaining independent made success
+more difﬁcult. Even Bangladeshi villagers who beneﬁted from the new bank spread rumors against Yunus and his bank. To retain
+ﬂexibility, Yunus persisted in keeping his bank independent. In fact, since 1995, he has not had to rely on donors. (Yunus, 1998).
+Yunus also saw the potential to change long-held beliefs about gender power imbalances. He did this by loaning to women.
+Before Grameen, women were the recipients of less than 1% of loans from banks to Bangladeshis (Yunus, 1998). Grameen changed
+this practice by loaning almost exclusively to women (Pitt and Khandker, 1998), a decision that quickly began to alter prevailing
+cognitive institutions and assumptions. Grameen Bank further changed the institution of lending by replacing legal instruments
+with trust. However, Yunus did not stop there. Over time, Yunus began to work directly on changing other cognitive and normative
+institutions of Bangladeshi culture. He sought to increase the feeling of interdependence within villages by requiring women
+borrowers to form groups of ﬁve before they could receive a loan (Bernasek and Stanﬁeld, 1997). While loans are given out for
+individual projects, the group is jointly responsible for repayment of each loan (Wahid, 1994), creating a shared sense of obligation
+and increasing the likelihood the loan is repaid.
+Grameen's “Sixteen Decisions” are one of the best illustrations of the institution — changing nature of organizations formed by
+Social Engineers (Grameen, 2007). At weekly loan repayment meetings, borrowers repeat the 16 decisions, a list of commitments
+that extend deep into the borrowers' way of living. For example, each woman repeats weekly, “We will keep our families small” and
+“If we come to know of any breach of discipline in any centre, we shall all go there and help restore discipline.” Illustrating his
+intent to change normative institutions, Yunus stated, “It is very difﬁcult to change peoples' minds, the way they have grown, the
+way they have seen… It is a social tradition that you are opposing, and its not easy to turn the tide around.” (Ferraro, 2000).
+The Grameen Bank model has been replicated throughout the world by lending US $5.1 billion to about 5.3 million people in the
+developing world (Gangemi, 2005; Yunus, 2003). This engineered solution continues to ﬁx a deep systemic problem. New and
+drastically different ﬁnancial institutions, in turn, challenge and change the way people think about gender, trust, legal documents,
+and even social practices. Other have followed in Grameen Bank's footsteps by offering micro-credit to disadvantaged nascent
+entrepreneurs around the globe (Gangemi, 2005). Schreiner (2003) observes that Gramaeen Clones have appeared and thrived in
+North America (Taub, 1998), Europe (Rogaly, 1996), Latin America (Thomas, 1995), Africa (Wall Street Journal, 1998) and Asia
+(Hulme, 1990).
+Other types of Social Engineers exist as well. For example, Waddock and Post (1995: 951) refer to catalytic alliances as
+organizations operating “at the leading edge of social reform, using the media as a strategic resource to place an issue on the public
+agenda and change public attitudes.” These alliances (e.g., Hands Across America and The Partnership for a Drug-Free America)
+usually tackle difﬁcult and complex social problems and reshape public attitudes about these problems. They also help generate
+dramatically different patterns of resource allocations and service delivery methods — without actually delivering these services.
+These catalytic alliances are often founded by entrepreneurially driven, socially-minded individuals. For example, Hands Across
+America founder Ken Kraven was also instrumental in bringing the plight of starving Africans to the attention of the Western world.
+Through his efforts, musicians such as Bruce Springsteen and Michael Jackson raised society's consciousness about the severity of
+the hunger problem through the release of “We are the World.” Kraven organized the LiveAid and BandAid concerts, and
+spearheaded the creation of USA for Africa. These were all designed to publicize the hunger problem. Similarly, The Partnership for
+a Drug Free America was the brainchild of marketer Phillip Joanous, who convinced over 200 members of the American Association
+of Advertising Agencies to develop and fund an anti- drug marketing campaign. The mission of these and other catalytic alliances is
+not necessarily to ﬁx social problems, but to inspire others to spearhead social change.
+4. Ethics of social entrepreneurship
+Despite the widely acknowledged importance of social entrepreneurship, concerns persist over the ethics of its practice. Some
+believe social entrepreneurship represents a harmful marriage between opposing values. The increased emphasis on efﬁcient and
+proﬁtable market models dramatically clashes with many of the founding ideals of the public sector and NGOs dedicated to
+fostering the public good (e.g., Eikenberry and Kluver, 2004). Critics also charge the application of organizational models that
+stress competitive practices is incongruent with, and even dangerous to, the values of the traditional social models. These values
+emphasize community participation, transparency, due process and stewardship (Alexander and Weiner, 1998).
+Sustaining social ventures often requires a strong entrepreneurial orientation that is grounded in the use of business models.
+For example, the Aravind Eye Clinic in India charges some indigent patients the equivalent of US$4 for a US$1 cataract lens to help
+defray the cost of serving even poorer patients who get the implants for free (Prahaald, 2004). Nirmalan et al. (2004) found that
+among India's rural poor, a large percentage need eye care services but do not seek treatments from existing institutions which are
+inefﬁcient and slow. In contrast, Aravind offers quick, easy-to-access and reasonably priced, quality services that address some
+unmet social needs. The business model used helps to defray the poor's cost. Still, a focus on business models can also tilt social
+entrepreneurs' focus away from addressing their chosen causes toward making a proﬁt, shifting services away from the truly
+indigent to only those who can afford to pay. This may also lead to the denial of services to constituents who are costly to serve. A
+strong emphasis on entrepreneurial orientation could also cause the reduction, or even the abandonment, of the programs whose
+outcomes are uncertain, progress is slow, or success rates are difﬁcult to measure (Eikenberry and Kluver, 2004). Thus, while an
+entrepreneurial orientation can produce desirable change, its effects could also leave clients with compelling needs unserved,
+marginalized, or force some to pay for services that others may get at a lower rate.
+
+528
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+While social entrepreneurs are driven by an ethical obligation and desire to improve their communities and societies, egoism
+can drive them to follow unethical practices. Egoism is especially relevant because the identity and passions of social entrepreneurs
+usually compel them to create and lead social ventures. Longnecker et al. (1988: 64) observe that, “Entrepreneurial ethics may have
+their roots in the individualism associated with entrepreneurial behavior,” and some have observed social entrepreneurs have the
+same core temperament as their economically motivated peers (Davis, 2002). This egoistic streak, therefore, may lead some social
+entrepreneurs to believe that any actions taken to fulﬁll their ambitions are ethically justiﬁed (Longnecker et al., 1988).
+Each of the three social entrepreneur types we have proﬁled in this article faces unique ethical challenges. These depend on:
+their motives, the resources required to pursue their ambitions, and the governance and control mechanisms in place to regulate
+their behaviors. Below, we highlight these contrasts and discuss the ethical challenges that these different social entrepreneurs
+might encounter.
+4.1. Social Bricoleur
+These entrepreneurs' motives are generally noble; they identify a local concern and bring innovative measures to bear on a
+recognizable social problem. Rarely driven by an absolutely “utilitarian” value system, they usually aspire to bring social wealth to
+their communities and resolve vexing local social issues. Consequently, the reach of their ego and ambitions are decidedly limited,
+as are the potential ill effects that might arise in their pursuit of social wealth. Their small-scale operations and limited resource
+needs reduce the pressure to revert to unethical practices to obtain the resources necessary to sustain their operations. Governance
+and oversight of these ventures, as well as the continued legitimacy to serve, rests in the hands of the local communities.
+One of the most serious ethical concerns about Social Bricoleurs is the efﬁciency of the allocation process they use in creating a
+public good. Speciﬁcally, how is the social wealth generated best allocated? Who gets access to this wealth and how? Though price
+is an important governance mechanism in a free market system, the value of a social good or service is harder to calculate. Thus, the
+question persists: What can substitute for the price system when the common good is the key objective? Given these ambiguities,
+it is hard to determine if, when, and how Social Bricoluers enhance social wealth. Other concerns also arise about who subsidizes
+these entrepreneurs' under-pricing strategies. Also, what are the implications of sub- optimal pricing on the quality, availability
+and delivery of services rendered? When social entrepreneurs branch out into for-proﬁt activities, other ethical issues related to
+ﬁnancial reporting and cost accounting come into question. This problem is compounded by disagreements on how to best
+measure the effectiveness of social ventures (Forbes, 1998; Kaplan, 2001). Finally, because of their small scale, Social Bricoleurs are
+typically immune to contests of the market for corporate control that can curb their potential opportunism. Given that formal
+controls may be impotent or even non-existent, agency problems might pervade those ventures led by Social Bricoleurs. Excessive
+compensation, concentration of power, and pursuit of personal agenda at the expense of organizational goals are examples of such
+dysfunctional agency problems.
+4.2. Social Constructionists
+The motives and ambitions of Social Constructionists are complex and multi-faceted. Their desire to generate social wealth is
+matched with a hope to bring new equilibrium to broad social systems where serious imbalances exist. These entrepreneurs not
+only want to serve their client group, but also seek to introduce social change and reform (Prabhu, 1999; Davis, 2002; Dees, 1998;
+Johnson, 2002). Further, Bornstein (1996: 36) describes the social entrepreneur as a person “… who is totally possessed by his or
+her vision for change.” To bring about broad-based changes in how social wealth is created and distributed, the motivation to
+develop and introduce novel solutions frequently requires egoistic actions that match the breadth of the reforms desired. Social
+Constructionists might manipulate or even coerce others to gain their support, compliance or acquiescence. As a result,
+opportunistic and coercive behaviors might become a serious problem in the ventures that Social Constructionists lead. Such
+behaviors could be wrong even if they lead to greater social wealth (Kant, 1964).
+Drayton (2002) also suggests Social Constructionists must possess the requisite “ethical ﬁber” to serve as positive role models,
+exude conﬁdence, as well as build support and collaboration if they are to be successful in scaling up their operations. The need for
+greater resources to accomplish their objectives, matched with the goal of transforming social institutions, may prompt some
+Social Constructionists to cut ethical corners (Barendsen and Gardner, 2004). For instance, some may spin the truth in order to gain
+support and obtain funding, or even fail to refund money received from donors. Because Social Constructionists are so committed
+to a chosen venture or higher ideal, the stakes are especially high. This could cause them to engage in unethical behaviors,
+especially when the fate of their ventures lies in the balance. Ethically, it matters greatly how entrepreneurs go about achieving
+total wealth, not only the beneﬁts they achieve. This is especially salient in social ventures where entrepreneurs typically engage
+others who share a common concern for social good, and attempt to retain their support and enthusiasm for the chosen course of
+action.
+Egoism, coupled with the lack of effective controls, can accentuate these questionable behaviors. An example of some of the
+ethical issues Social Constructionists may encounter when market mechanisms and governance are limited is Farm Aid, a social
+venture that provides grants and support programs to US farmers. Though some critics point to the relatively low percentage of
+revenues ultimately given to farmers in the form of grants (28% in 2004), founders of the organization (e.g., such as Willie Nelson)
+believe the venture helps increase public awareness about the plight of the US farmer (George, 2005). Such disagreements about
+the mission of the venture can have other dramatic impacts upon its activities and performance. For example, while a 2003 Farm
+Aid concert generated over $1 million in revenues, expenses to hold the event ran over $850,000, leaving barely over $150,000 in
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+529
+
+proﬁt. This is a small ﬁgure given that all artists paid their own expenses and performed for free. Divergent social ambitions, mixed
+with inadequate oversight, can place some social ventures in the difﬁcult position of having to justify their performance and
+answer charges of negligence from their donors and other stakeholders.
+4.3. Social Engineers
+These entrepreneurs are the most driven of the three types portrayed in this article. They focus on introducing revolutionary
+change and deliberately upsetting the equilibrium within their environment. This is typically viewed as subversive. When these
+entrepreneurs encounter situations where societal structures, institutions, and norms have become ossiﬁed, some may ﬁnd rule
+breaking essential to introducing innovation and reform (Etzioni, 1987; Bhide and Stevenson, 1990). This contradicts the known
+ethical principle that the end cannot, and should not, justify the means.
+In their fervent commitment to their chosen causes, Social Engineers may also place their egos and needs ahead of their
+ventures or the constituents they serve. Undoubtedly, many Social Engineers are motivated by the highest ideals of “doing good”.
+But, what happens when this is not the case, or when the values of the Social Engineer differ radically from prevailing societal
+morals and norms? Champions of radical change and leaders of social movements are often individualistic and may even hold
+values that others consider toxic to society at large. Some of these entrepreneurs may even be socially deviant, manipulative and
+unrelenting in the pursuit of their own idiosyncratic agendas. The changes these entrepreneurs champion to remedy existing
+problems can also lead to a new set of societal challenges that reduce or even harm public good.
+Social Engineers usually marshal great resources and create momentum for wide- ranging societal change. They are usually
+driven by a missionary zeal and unbounded belief in the righteousness of their causes. Sometimes, it takes this dedication to
+transform a community or society. There are times, however, when these behaviors create, intensify and perpetuate social
+tensions, conﬂicts and acrimony rather than harmony and prosperity. Given their passion and charisma, monitoring and
+constraining visionary Social Engineers can be a challenge.
+5. Discussion
+In this article, we have deﬁned social entrepreneurship, explained the major reasons for the growing interest in it, deﬁned it,
+and identiﬁed three major social entrepreneurial types. We have also discussed some key ethical issues that arise from the practice
+of social entrepreneurship. We will now reﬂect on the managerial implications of our typology and identify directions for future
+research.
+5.1. Managerial implications
+Our article has several implications for the management of social ventures and the various stakeholders they serve and/or rely
+on for support. Though we have discussed the practices of several successful social entrepreneurs, efforts to create social wealth or
+launch new social ventures are risky activities. However, social innovation runs the risk of social upheaval. There is also the
+possibility that the ventures and innovations they initiate might not create social wealth. As we have noted, accepted, reliable and
+valid measures of social wealth do not currently exist. While the aggressive actions of business entrepreneurs are often offset by
+the reality of market mechanisms, social entrepreneurs may operate in a realm with fewer checks and balances.
+Our article encourages social entrepreneurs to keep the goal of maximizing social wealth in mind and urges them not to get
+caught up in the elegance or novelty of their own creation. Further, even though the pursuit of opportunities to increase income
+might be alluring, these activities should not be undertaken if they diminish the social venture's ability to serve its constituency.
+Such an inversion of means and ends raises serious ethical concerns, particularly for those volunteers and ﬁnancial donors who
+wish to support an organization's social mission, rather than the technical operations.
+The lack of oversight and the potential for unethical actions should also encourage social entrepreneurs to adopt effective
+mechanisms that help to monitor their ventures. Social entrepreneurs share many of the same characteristics as their for-proﬁt
+cohorts — risk-taking, proactiveness and independence. As such, some social entrepreneurs might be susceptible to taking
+unnecessary risks. Or, they may pursue innovation merely to create change, as opposed to enhancing social wealth. Social
+entrepreneurs should consider creating external advisory boards and implement effective governance mechanisms to make sure
+their ventures do not fall victim to the ethical abuses we have analyzed earlier.
+Furthermore, given these fundamental differences in the strategic intent and organizational needs of particular social
+entrepreneurs, we have underscored the need for distinct managerial styles in each of the three types. The three different social
+entrepreneurs we discussed may experience similar hurdles just as entrepreneurial organizations struggle with issues of growth
+and evolution from a new venture towards a more professional organization. For instance, Social Bricoleurs may operate very
+informal ventures. Scaling up and operating larger organizations requires Social Constructionists to develop much more complex
+and formal managerial systems. Social Engineers, however, may beneﬁt more from charismatic leadership in garnering public
+attention and galvanizing support for their ventures' missions.
+This article also reinforces the importance of opportunity recognition in the realm of social entrepreneurship. It encourages
+social service providers and nascent social entrepreneurs to explore and integrate models of discovery and entrepreneurship into
+their operations. The pursuit of earned income-generating opportunities, new revenue streams, or innovative means of creating
+social wealth could be enhanced by adopting a more entrepreneurial mindset within an organization. Given the shrinking pool of
+
+530
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+public funding, all social service organizations need to consider alternative means of support or novel ways to create social wealth.
+Lessons learned from the competitive sector might prove invaluable to social ventures' sustained viability.
+
+5.2. Future research directions
+Our article highlights a further need to articulate the domain of social entrepreneurship and outlines several criteria by which
+this delineation could be achieved. Clearly, deﬁnitions of social entrepreneurship should incorporate both economic and social
+outcomes. Further, given that the concept of social wealth is key to our deﬁnition, future researchers should clarify the meaning
+and dimensions of this concept. Researchers could integrate insights from research on organizational effectiveness (Cameron and
+Whetten, 1983; Herman, 1990) as they measure social costs and beneﬁts. The deﬁnition of opportunity costs also requires
+thoughtful attention. These costs typically involve entrepreneurs' foregone opportunities as well as any missed opportunities to
+employ these resources differently to create greater social wealth. Future deﬁnitions of opportunity costs should also consider
+social costs arising elsewhere.
+Social entrepreneurs and their ventures need to be studied closely in future research. Our deﬁnition of social entrepreneurship
+underscores the various actions and processes followed to discover and exploit opportunities. It also captures the motivation and
+personality of those individuals who establish these ventures. By examining these motivations and actions, future researchers can
+capture the variety of social ventures. Some ventures are simple replications of existing organizations. Others consolidate, revamp
+and replace obsolete organizational forms. Social ventures also vary in their scale and scope, depending on the magnitude of the
+social opportunities pursued (Zahra et al., in press). Documenting these differences, as well as their causes and implications for the
+types of opportunities pursued, can also enrich our understanding of the effect of different organizational forms on the success of
+social entrepreneurship.
+The antecedents of social entrepreneurship also require careful analysis which might include societal, organizational and
+individual variables. The various interactions among these variables could also spark the recognition of different social
+opportunities and determine how entrepreneurs exploit them. As research matures, greater attention to theory building on the
+antecedents of different social ventures becomes a priority. Exploring the milieu within which these entrepreneurs exist, how they
+function, and why their ventures succeed or fail can enrich theory building on social ventures.
+Future researchers would also beneﬁt from studying the contextual variables that inﬂuence different social entrepreneurial
+types. The three types we have discussed in this article could reﬂect the effective roles social entrepreneurship plays at different
+points in the life of their ventures. They might signal the growing maturity of social entrepreneurs in learning how to assemble
+resources and pursue different opportunities. The personality of the entrepreneur, the social mission to be accomplished, and the
+muniﬁcence of the external environment might also inﬂuence the selection of a given type.
+Ethical transgressions can hamper entrepreneurs' ability to create social wealth. As a result, the ethical issues associated with
+different social entrepreneurial types deserve thoughtful analysis. Under what conditions are these different entrepreneurs willing
+to cut ethical corners? How can social ventures develop early warning systems of such ethical violations? How can new social
+ventures curb their founders' potential unethical transgressions? These questions underscore the importance of research on social
+entrepreneurship and its ethics. We hope our article inspires others to pursue research on these important issues.
+
+References
+Acumen, 2007. http://blog.acumenfund.org/2007/05/10/two-pronged-social-impact/ Accessed 1 October, 2007.
+Alexander, J.A., Weiner, B.J., 1998. The adoption of the corporate governance model by non-proﬁt organizations. Nonproﬁt Management and Leadership 8 (3),
+223–242.
+Alford, S.H., Brown, L.D., Letts, C.W., 2004. Social entrepreneurship: leadership that facilitates societal transformation. Working Paper, Center for Public Leadership.
+InJohn F. Kennedy School of Government.
+Austin, J., Stevenson, H., Wei-Skillern, J., 2006. Social and commercial entrepreneurship: same, different or both? Entrepreneurship: Theory & Practice 30 (1), 1–22.
+Baker, T., Nelson, R., 2005. Creating something from nothing: resource construction through entrepreneurial bricolage. Administrative Science Quarterly 50,
+329–366.
+Baker, T., Gedjlovic, E., Lubatkin, M., 2005. A framework for comparing entrepreneurial processes across nations. Journal of International Business Studies 36,
+492–504.
+Barendsen, L., Gardner, H., 2004. Is the social entrepreneur a new type of leader. Leader to Leader 34, 43–50 (Fall).
+Bernasek, A., Stanﬁeld, J.R., 1997. The Grameen Bank as progressive institutional adjustment. Journal of Economic Issues 31 (2), 359–366.
+Bhide, A., Stevenson, H.H., 1990. Why be honest if honesty doesn't pay. Harvard Business Review 68 (5), 2–9.
+Bornstein, D., 1996. The price of a dream: The idea of the Grameen Bank and the idea that is helping the poor to change their lives. Simon & Schuster, New York.
+Bornstein, D., 2004. How to change the world: Social entrepreneurship and the power of ideas. Oxford University Press.
+Brinkerhoff, P., 2001. Why you need to be more entrepreneurial — an how to get started. Nonproﬁt World 19 (6), 12–15.
+Brinkerhoff, D.W., Brinkerhoff, J.M., 2004. Partnerships between international donors and non-governmental development organizations: opportunities and
+constraints. International Review of Administrative Sciences 70, 253–270.
+Brown, L.D., Moore, M.H., 2001. Accountability, strategy, and international nongovernmental organizations. Nonproﬁt and Voluntary Sector Quarterly 30, 569–587.
+Cameron, K., Whetten, D. (Eds.), 1983. Organizational effectiveness: A comparison of multiple models. InAcademic Press, New York.
+Carney, M., in press. Agentic variation in institutional entrepreneurship. Unpublished manuscript John Molson School of Business, Concordia University, Montreal.
+Carney, M., Gedajlovic, E., 2002. The co-evolution of institutional environments and organizational strategies: The rise of family business groups in the ASEAN
+region. Organization Studies 23 (1).
+Chell, E., 2007. Social enterprise and entrepreneurship. International Small Business Journal 25 (1), 5–26.
+Conner, K.R., Prahalad, C.K., 1996. A resource-based theory of the ﬁrm: knowledge versus opportunism. Organization Science 7, 477–501.
+Cox, A., Healey, J., 1998. Promises to the poor: the record of European development agencies. Poverty Brieﬁngs, vol. 1. Overseas Development Institute, London.
+Cyert, R.A., March, J.G., 1963. A behaviourial theory of the ﬁrm. Prentice–Hall, Inc, Englewood Cliffs, NJ.
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+531
+
+Davis, S., 2002. Social entrepreneurship: Towards an entrepreneurial culture for social and economic development. . Prepared for Youth Employment Summit Sept.
+7–11. http://www.ashoka.org/global/yespaper.pdf.
+Dees, J.G., 1998. Enterprising nonproﬁts. Harvard Business Review 76 (1), 55–66.
+Dees, J.G., Anderson, B.B., Wei-Skillern, J., 2004. Scaling social impact. Stanford Social Innovation Review 1, 24–32.
+Dichter, T., 1999. Non-government organisations (NGOs) in microﬁnance: past, present and future — an essay. Case Studies in Microﬁnance. World Bank Sustainable
+Banking Project.
+Dorado, S., 2006. Social entrepreneurial ventures: different values so different process of creations, no? Journal of Developmental Entrepreneurship 319–343.
+Drayton, B., 2002. The citizen sector: becoming as entrepreneurial and competitive as business. California Management Review 44 (3), 120–132.
+Eikenberry, A.M., Kluver, J.D., 2004. The marketization of the nonproﬁt sector: civil society at risk? Public Administration Review 64, 132–140.
+Etzioni, A., 1987. Entrepreneurship, adaptation and legitimation. Journal of Economic Behavior and Organization 8, 175–189.
+Ferraro, G., 2000. Sixteen Decisions. . www.geraldpeary.com/reviews/stuv/sixteen_decisions.html. accessed December 14, 2008.
+Forbes, D.P., 1998. Measuring the unmeasurable: empirical studies of nonproﬁt organization effectiveness from 1977 to 1997. Nonproﬁt and Voluntary Sector
+Quarterly 27, 183–202.
+Foster, W., Bradach, J., 2005. Should nonproﬁts seek proﬁts? Harvard Business Review 83, 92–100.
+Fowler, A., 2000. NGDOs as a moment in history: beyond aid to social entrepreneurship or civic innovation? Third World Quarterly 21 (4), 637–654.
+Fuqua School. 2005. http://www.fuqua.duke.edu/centers/case/
+Gangemi, J. 2005. Microcredit missionary. Business Week (December 26), 20.
+George, J. 2005. Farmer Aid expenses eat away at donations. Chicago Tribune, September 17.
+Glaeser, E.L., 2002. The governance of not-for-proﬁt ﬁrms. NBER Working Papers 8921. InNational Bureau of Economic Research, Inc.
+Goerke, J., 2003. Taking the quantum leap: nonproﬁts are now in business. An Australian perspective. International Journal of Nonproﬁt and Voluntary Sector
+Marketing 8 (4), 317–327.
+Grameen, 2007. http://www.grameen-info.org/bank/the16.html, Accessed 1 October, 2007.
+Grant, R.M., 1996. Toward a knowledge-based theory of the ﬁrm. Strategic Management Journal 17, 109–122.
+Harding, R., 2004. Social enterprise: the new economic engine? Business and Strategy Review 15 (4), 39–43.
+Hayek, F.A., 1945. The use of knowledge in society. American Economic Review 35, 519–530.
+Hemingway, C.A., 2005. Personal values as a catalyst for corporate social entrepreneurship. Journal of Business Ethics 60 (3), 233–249.
+Herman, R., 1990. Methodological issues in studying the effectiveness of nongovernmental and nonproﬁt organizations. Nonproﬁt and Voluntary Sector Quarterly
+19, 293–306.
+Hulme, D., 1990. Can the Grameen Bank be replicated? Recent experiments in Malaysia, Malawi, and Sri Lanka. Development Policy Review 8, 287–300.
+Johnson, S., 2002. Social entrepreneurship literature review. Paper produced for the Canadian Centre for Social Entrepreneurship.
+Kahneman, D., Tversky, A., 1979. Prospect theory: an analysis of decision under risk. Econometrica 47, 263–290.
+Kant, I., 1964. Groundwork of the Metaphysic of Morals. Harper and Row Publishers, Inc.
+Kaplan, R.S., 2001. Strategic performance measurement and management in nonproﬁt organizations. Nonproﬁt Management & Leadership 11, 353–370.
+Kirzner, I., 1973. Competition and entrepreneurship. The University of Chicago Press, Chicago.
+Knight, F.H., 1921. Risk, uncertainty, and proﬁt. Houghton Mifﬂin Company, Boston, MA.
+Kuratko, D.F., Goldsby, M.G., 2004. Corporate entrepreneurs or rogue middle managers: a framework for ethical corporate entrepreneurship. Journal of Business
+Ethics 55 (1), 3–30.
+Lasprogata, G.A., Cotton, M.N., 2003. Contemplating enterprise: the business and legal challenges of social entrepreneurship. American Business Law Journal 41,
+67–113.
+Leadbetter, C., 1997. The rise of social entrepreneurship. Demos, London.
+Levi-Strauss, C., 1966. The savage mind. Weidenfeld and Nicolson, London.
+Longnecker, J., McKinney, J., Moore, C., 1988. Egoism and independence: entrepreneurial ethics. Organizational Dynamics 16 (3), 64–72.
+MacMillan, I.A. 2005. http://knowledge.wharton.upenn.edu/index.cfm?fa=viewfeature&id=766.
+Mair, J., Marti, I., 2004. Social entrepreneurship: what are we talking about? A framework for future research. Barcelona: IESE Business School Working Paper No.
+546.
+Mair, J., Martí, I., 2006a. Social entrepreneurship research: a source of explanation, prediction, and delight. Journal of World Business 41 (1), 36–44.
+Mair, J., Marti, I., 2006b. Social entrepreneurship in and around institutional voids. Paper presented at the University of Minnesota Conference on Ethics &
+Entrepreneurship.
+Mair, J., Noboa, E., 2003. Social entrepreneurship: how intentions to create a social enterprise get formed. Barcelona: IESE Business School Working Paper No. 521.
+Martin, R.J., Osberg, S., 2007. Social Entrepreneurship: The Case for a Deﬁnition, Stanford Social Innovation Review, pp. 29–39. Spring.
+Mintzberg, H., Simons, R., Basu, K., 2002. Beyond selﬁshness. Sloan Management Review 44 (1), 67–74.
+Mort, G., Weerawardena, J., Carnegie, K., 2002. Social entrepreneurship: towards conceptualization and measurement. American Marketing Association Conference
+Proceedings 13, 5.
+Nelson, R.R., Winter, S., 1982. An evolutionary theory of economic change. The Belknap Press of Harvard University, London.
+Nirmalan, N.K., Katz, J., Robin, A.L., Krishnadas, R., Ramakrishnan, R., Thulasiraj, R.D., Tielsch, J., 2004. Utilisation of Eye Care Services in Rural South India: The
+Aravind Comprehensive Eye Survey.
+Novogratz, J. 2005. Talks Jacqueline Novogratz: Investing in Africa's own solutions video on http://www.ted.com/index.php/talks/view/id/91.
+NYU Stern, 2005. http://w4.stern.nyu.edu/berkley/social.cfm.
+Parsons, T., 1971. The system of modern societies. Prentice-Hall, Englewood Cliffs, NJ.
+Pearce, J., Doh, J.P., 2005. The high impact of collaborative social initiatives. MIT Sloan Management Review 46, 329–339.
+Peredo, A.M., McLean, M., 2006. Social entrepreneurship: a critical review of the concept. Journal of World Business 41, 56–65.
+Pitt, M., Khandker, S.R., 1998. The impact of group-based credit programs on poor households in Bangladesh: does the gender of participants matter? Journal of
+Political Economy 106 (5), 958–996.
+Pfeffer, J., Salancik, G.R., 1978. The external control of organizations: A resource dependence perspective. Harper & Row, New York, NY.
+Prabhu, G.N., 1999. Social entrepreneurship leadership. Career Development International 4 (3), 140–145.
+Prahalad, C.K., 2004. The Fortune at the Bottom of the Pyramid: Eradicating Poverty Through Proﬁts. Wahrton School Publishing, New Jersey.
+Prahalad, C.K., 2005. The fortune at the bottom of the pyramid: eradicating poverty through proﬁts. Wharton School Publishing, Upper Saddle, NJ.
+Rawhouser, H., 2007. Going Beyond the Institutions in Developing Countries. InWorld Universities Network Conference, Chicago, Illinois. October 4–6, 2007.
+Reis, T., 1999. Unleashing the New Resources and Entrepreneurship for the Common Good: a Scan, Synthesis and Scenario for Action. W.K. Kellogg Foundation,
+Battle Creek, MI.
+Rogaly, B., 1996. Micro-ﬁnance evangelism, “destitute women”, and the hard selling of a new anti-poverty formula. Development in Practice 6, 100–112.
+Said Business School. 2005. http://www.sbs.ox.ac.uk/skoll/.
+Salamon, L.M., 1999. America's nonproﬁt sector: A primer. The Foundation Center, New York, NY.
+Schreiner, M., 2003. A cost-effectiveness analysis of the Grameen Bank of Bangladesh. Development Policy Review 21, 357–382.
+Schumpeter, J.A., 1934. The theory of economic development. Oxford University Press, London.
+Schumpeter, J.A., 1942. Capitalism, socialism, and democracy. Harper and Brothers, New York.
+Schwab Foundation. 2005. http://www.schwabfound.org.
+Shane, S., Venkataraman, S., 2000. The promise of entrepreneurship as a ﬁeld of research. Academy of Management Review 25, 217–226.
+Shaw, E., 2004. Marketing in the social enterprise context: is it entrepreneurial? Qualitative Marketing Research: an International Journal 7 (3), 194–205.
+Spear, R., 2006. Social entrepreneurship: a different model? International Journal of Social Economics 33 (5/6), 399–410.
+
+532
+
+S.A. Zahra et al. / Journal of Business Venturing 24 (2009) 519–532
+
+Tan, W.-L., Williams, J., Tan, T.-M., 2005. Deﬁning the ‘social’ in ‘social entrepreneurship’: altruism and entrepreneurship. International Entrepreneurship and
+Management Journal 1, 353–365.
+Taub, R.P., 1998. Making the adaptation across cultures and societies: a report on an attempt to clone the Grameen Bank in Southern Arkansas. Journal of
+Developmental Entrepreneurship 3 (1), 53–69.
+Teegen, H., Doh, J.P., Vachani, S., 2004. The importance of nongovernmental organization (NGOs) in global governance and value creation: an international business
+research agenda. Journal of International Business Studies 35 (6), 463–483.
+Thake, S., Zadek, S., 1997. Practical people, noble causes. How to support community based social entrepreneurs. New Economic Foundation.
+Thomas, J.J., 1995. Replicating the Grameen Bank—the Latin American experience. Small Enterprise Development 6 (2), 16–26.
+Thompson, J., Doherty, B., 2006. The diverse world of social enterprise: a collection of social enterprise stories. International Journal of Social Economics 33 (5/6),
+399–410.
+Thompson, J., Alvy, G., Lees, A., 2000. Social entrepreneurship — a new look at the people and the potential. Management Decision 38, 328–338.
+Waddock, S.A., Post, J.E., 1995. Catalytic alliances for social problem solving. Human Relations 48 (8), 951–973.
+Wahid, A.N., 1994. The Grameen Bank and poverty alleviation in Bangladesh: theory, evidence and limitations. The American Journal of Economics and Sociology
+53, 1–16.
+Wall Street Journal. 1998. Microcredit arrives in Africa, but can it match Asian success? September 29, Section A, p.1.
+Weick, K.E., 1993. The collapse of sensemaking in organizations: the Mann Gulch disaster. Administrative Science Quarterly 38, 628–652.
+Wolverton, B. 2003. Surviving tough times. Chronicle on Philanthropy, October 30.
+Wood, J.S., 2005. Development and present state of entrepreneurship in product and assets markets. Austrian Scholars Conference, Auburn, Alabama.
+Yunus, M., 1998. Poverty alleviation: is economics any help? Lessons from the Grameen Bank experience. Journal of International Affairs 52.1, 47–65.
+Yunus, M., 2003. Banker to the poor: Micro-lending and the battle against poverty (2nd ed.). Public Affairs, New York.
+Zahra, S.A., Dess, G.G., 2001. Entrepreneurship as a ﬁeld of research: encouraging dialog and debate. Academy of Management Review 26 (1), 8–10.
+Zahra, S., Ireland, D., Guiterrez, I., Hitt, M., 2000. Privatization and entrepreneurial transformation: a review and research agenda. Academy of Management Review
+25, 509–524.
+Zahra, S., Rawhouser, H., Bhawe, N., Neubaum, D. & Hayton, J. in press. Globalization of` Social Entrepreneurship. Strategic Entrepreneurship Journal.
+
+

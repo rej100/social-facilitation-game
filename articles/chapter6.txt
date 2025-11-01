@@ -1,0 +1,934 @@
+81
+
+Characteristics of the
+Social Entrepreneur
+6.1	 Objectives of the Chapter – 82
+6.2	 Introduction – 82
+6.3	 Social Entrepreneur, Particularities,
+and Differences That Make Them an Agent
+of Change – 83
+6.4	 Challenges Faced by Social Entrepreneurs – 85
+6.5	 Types of Social Entrepreneurs – 86
+6.6	 Leadership in Social Enterprises: The Need
+for Change as the Enterprise Grows Up – 90
+6.7	 Conclusions – 92
+6.8	 Exercise – 93
+6.9	 Additional Resources – 94
+References – 94
+
+© The Author(s) 2019
+L. Portales, Social Innovation and Social Entrepreneurship,
+https://doi.org/10.1007/978-3-030-13456-3_6
+
+6
+
+82
+
+Chapter 6 · Characteristics of the Social Entrepreneur
+
+6.1  Objectives of the Chapter
+
+6
+
+5 Define and differentiate between a traditional entrepreneur
+and a social entrepreneur.
+5 List and understand the challenges faced by a social entrepreneur.
+5 Explain each of the different types of social entrepreneurs that
+exist.
+5 Recognize each of the stages of a social enterprise, depending on the styles of leadership required and the type of social
+entrepreneur.
+5 Analyze a social enterprise based on the profile of the social
+entrepreneur and the style of leadership required.
+6.2  Introduction
+
+Social entrepreneurship is the process by which social enterprises seek to address a social problem innovatively and sustainably changing the social and economic structures that gave rise to
+it. However, to achieve, it is necessary to have an agent of change,
+aware of this problem, and with the interest of carrying out an
+action that transforms the context or the conditions that make
+them arise or prevail.
+This agent of change is known as a social entrepreneur, which
+shares qualities and similarities with the traditional entrepreneur.
+However, the nature of entrepreneurship and motivations makes
+them have particularities that are important to take into consideration for analysis and understanding. Sometimes these particularities are related to the type of social enterprise they wish to develop,
+but in most cases, they are common to all of them.
+In the same way, as in traditional ventures, the social entrepreneur has a series of characteristics, skills, and competencies to take
+their business to success. Some of these characteristics are innate,
+while others must be developed over time and during the process
+of implementation of the company.
+Based on this context, this chapter aims to present the profile
+of social entrepreneurs, as well as the skills and competencies they
+develop to have a social enterprise considered to be successful. It
+also exposes the different types of social entrepreneurs that exist
+and the roles that each of them plays according to the life cycle of
+the social enterprise.
+The chapter has five sections. The first exposes a description
+of the general characteristics of a social entrepreneur. The second
+section presents an analysis of the challenges faced by the social
+entrepreneur when carrying out his social enterprise. The third
+shows the different types of social entrepreneurs, as well as the
+roles they play in each of them. The fourth section presents the
+kind of leadership that a social entrepreneur must develop in each
+of the stages of their social entrepreneurship until they become
+consolidated within the ecosystem. The fifth section presents
+reflections, by way of conclusion of the chapter.
+
+6.3 · Social Entrepreneur, Particularities, and Differences …
+
+6.3  Social Entrepreneur, Particularities,
+
+and Differences That Make Them an Agent
+of Change
+
+Social entrepreneurs are like other entrepreneurs, with the difference that their motivation is social impact and not money (Tracey
+& Phillips, 2007). They are agents committed to making a difference for the world, driven by social objectives, which have the
+characteristic of improving the living conditions of other people.
+To achieve their purpose, they decide to carry out a social enterprise that, like any other business, should not incur losses, but
+obtaining dividends from these companies is not the motivation
+that drives them (Yunus, 2006).
+Social entrepreneurs face the same challenges as traditional
+entrepreneurs: the recognition of opportunities, the allocation
+of resources, and the creation of a new company, with the added
+complexity of the achievement of social results.
+Although there is no agreed definition of social entrepreneur,
+all agree on the importance of the social value proposition, that
+is, the objective of the entrepreneur is to solve a social problem
+(Nicholls, 2013). Therefore, a social entrepreneur is that individual
+who tries to address or alleviate a social problem with an innovative business approach. Successful social entrepreneurs reflect the
+characteristics of successful commercial entrepreneurs, but require
+an extra dose of visionary ideas, leadership skills and a commitment to help others (Mair, Battilana, & Cardenas, 2012). They are
+people who realize that there is an opportunity to satisfy some
+unmet need, gathering the necessary resources to make a difference. Positioning it as catalysts for social transformation (Waddock & Post, 1991).
+Within the personal characteristics that distinguish the social
+entrepreneur is his mentality (Light, 2005), which takes into
+consideration two aspects. The first is the social sensitivity and
+motivation they have to carry out their entrepreneurship. This
+mentality reflects that social entrepreneurs are ambitious, have
+a mission, are strategic, have resources, and are results oriented
+(Sastre-Castillo, Peris-Ortiz, & Danvila-Del Valle, 2015). The second aspect is the risk aberration that usually carry out its venture,
+but also its ability to learn their first implementations, that is, they
+show the willingness to self-correct and modify the plans, adjust
+the details, and overcome barriers (Marshall, 2011). They admit
+mistakes.
+Motivation is another characteristic that defines social entrepreneur (Grassl, 2012; Yunus, 2006). In most of them, there is a
+point of inflection or the awareness of a lack of compliance with
+some right or injustice, being the necessary stimulus to decide to
+take action to solve the diagnosed social problem. The ability to
+recognize opportunities when analyzing any problem complemented this motivation. Through the understanding of the social
+problem visualizes the potential to transform the social conditions
+that generate it. Social entrepreneurs recognize the complexity of
+
+83
+
+6
+
+84
+
+6
+
+Chapter 6 · Characteristics of the Social Entrepreneur
+
+social issues and develop a systematic vision for the issue, identifying the effects and causes that create it, the relevance of their
+attention, and the need to make collaboration from interdependent actors.
+The social entrepreneur is an individual with significant
+personal credibility, which it uses to take advantage of critical
+resources (Waddock & Post, 1991). His history generates a distinctive profile of beliefs and values, a fact that contributes to the
+formation of his personality but also to give meaning to the work
+he does. This history and credibility generate a commitment of
+the followers with the project, framing it regarding social values,
+instead of economic benefits, which results in the sense of collective purpose between the social entrepreneur and those who join
+the project. Social entrepreneurs have an ethical impulse, where
+money is only a tool to boost their programs and make projects
+progress.
+Another characteristic is their ability to act and cross disciplinary boundaries, bringing together people from diverse backgrounds who can work together to create a solution. In this sense,
+they are willing to free themselves from the established structures
+and to create new ones according to the needs to generate a new
+social equilibrium. Their ability to act and develop relationships
+for social transformation, lead them to share the credit with other
+actors. Sometimes, social entrepreneurs are willing to work quietly
+in the background.
+The social entrepreneur sustains the achievement of a social
+mission above or in parity with financial success (Alter, 2006;
+Marshall, 2011; Waddock & Post, 1991; Yunus, 2006). So, one of
+its characteristics is the fact that the growth of the company is a
+positive result, providing an enhancement of the social problem.
+Social entrepreneurs produce measurable returns, these results
+transform existing realities, open new paths for the marginalized
+and disadvantaged and unlock the potential of society to enable
+social change.
+The search for a double type of value is a characteristic of the
+social entrepreneur, considering the social and economic objectives in simultaneous (Austin, Gutierrez, Ogliastri, & Reficco,
+2006). Social entrepreneurs often occupy market niches by offering
+products and services that satisfy basic needs and that are not provided by the public or private sector, such as those related to social
+assistance and traditionally subordinated to the State. Although
+they also compete in traditional markets where they compete with
+the products and services of traditional companies, increasing
+the tension between the generation of social and economic value
+(Vázquez-Maguirre & Portales, 2018).
+It is important to mention that, although social entrepreneurs
+almost always define themselves as individuals because is easier
+to find and visualize, there are social entrepreneurships that arises
+from social groups, citizen groups, networks, organizations, or
+even communities. This type of experience is presented mainly in
+the School of Social Economy, in which the community promoted
+above the individual, even when there is individual leadership that
+
+6.4 · Challenges Faced by Social Entrepreneurs
+
+drives the initiatives. So, a social entrepreneur is an individual,
+group, network, organization, community, or alliance of organizations that seek a sustainable change on a large scale through innovative ideas to solve significant social problems, to the instead they
+use market mechanisms.
+6.4  Challenges Faced by Social Entrepreneurs
+
+The dual mission faced by social entrepreneurs at the moment of
+launching their ventures results in the facing of particular challenges, which would hardly be faced by a traditional entrepreneur.
+These challenges are of an individual type as well as an organizational type, and in some cases, a social one. Their attention favors
+the success of the social enterprise, however, due to the nature of
+the entrepreneur, sometimes not usually taken into consideration
+at the time of undertaking.
+On a personal level, the social entrepreneur has an intrinsic
+motivation related to the problem it wishes to address, which is
+usually linked to some life history, considered as the tipping point
+that led him to be an agent of change. By focusing on the problem as the starting point of the change process, they tend to forget to generate market mechanisms aimed at satisfying the needs
+of customers or consumers in a competitive way (Dey & Teasdale,
+2013). This situation places them in what of innovation, leaving
+aside how to carry it out, being its principal interest to address
+social problems through new ideas and not necessarily the generation of economic value. The challenge is to strengthen the use
+of high-performance management practices, such as continuous
+improvement, quality management, financial controls, and a general focus on accountability, increasing the possibility of early success.
+Accountability is often a complicated issue for social enterprises. By assuming a social mission, social entrepreneurs create
+relationships with vulnerable groups or sectors, which must be
+taken into account and establish bridges of dialogue with them
+during the creation of the company and developing its strategy
+(Tracey & Phillips, 2007). Social entrepreneurs require a set of
+competencies that allow them to create and manage these relationships, as they are a crucial element in providing the legitimacy
+they need. Finding this balance in relationship management is
+complicated, because social entrepreneurs need to create profitable businesses based on competitive products and services, and the
+process of consulting with stakeholders could impede competitiveness and slow decision making.
+Another challenge faced by social enterprises is the tension
+between social and commercial objectives (Vázquez-Maguirre
+& Portales, 2018). The types of tension experienced depend on
+the nature of the company and the costs of the social mission.
+The most obvious thing is that difficult decisions must be made
+regarding the priorities of the organization and investment strategies; however, sometimes the decision is focused on investing in
+
+85
+
+6
+
+86
+
+6
+
+Chapter 6 · Characteristics of the Social Entrepreneur
+
+the attention of the social problems, putting at risk the operational
+sustainability of the company or vice versa. The challenge for the
+entrepreneur is to reach the right balance between investing in
+the income generating part of the company or invest in the part
+responsible for achieving social results.
+Social entrepreneurs also present the challenge of breaking the
+dichotomy or silo presented by social and economic job (Tracey &
+Phillips, 2007). Entrepreneurs, who have experience in the social
+sector, have difficulties to identify the commercial part of the business; while those entrepreneurs with experience in traditional
+companies may have difficulty identifying the company’s social
+approach. Although this situation appears with greater force in the
+social entrepreneur, it also exists in employees and volunteers of
+the social enterprise.
+Finally, the primary challenge faced by a social entrepreneur
+when the company’s operation begins is to operate beyond the
+equilibrium point. When the entrepreneur has achieved this situation, he has graduated from the business world, with the possibility of expanding its impact (Yunus, 2006). He has overcome
+financial dependence, moving the world of philanthropy to the
+business world.
+6.5  Types of Social Entrepreneurs
+
+So far, the review has not mentioned explicitly the fact that not all
+social entrepreneurs are equal, that is, the context in which they
+develop, their life history and the problems they wish to address,
+define the type of entrepreneur they want or must to be. In this
+context, the proposal developed by Zahra, Gedajlovic, Neubaum,
+and Shulman (2009) considers three different types of social entrepreneur: social bricoleur, social builder, and social engineer. These
+types of social entrepreneurs can be classified from low to high,
+depending on the type of impact or social transformation they can
+achieve (. Fig. 6.1.).
+The bricoleur social entrepreneur has a local or tacit knowledge, using its resources and repertoires to carry out the tasks on
+day-to-day basis. It involves the combination of existing resources
+to solve problems and take advantage of new opportunities (Di
+Domenico, Haugh, & Tracey, 2010). This entrepreneur has an intimate knowledge of the local environmental conditions and the
+resources available locally. It attends to locally discovered opportunities with locally available resources.
+This type of social entrepreneur identifies social needs that can
+be indiscernible or unrecognizable by other actors. The solutions
+they design are sometimes small in scale and limited in scope.
+However, these solutions help to mitigate local social problems.
+Social bricoleurs contribute to the generation of a social equilibrium where peace and social order exist. As a consequence of it
+localized and often implicit knowledge, social bricoleurs are in a
+unique position to discover local social needs where they can take
+advantage of their motivation, experience, and personal resources
+
+87
+
+6.5 · Types of Social Entrepreneurs
+
+Social Engineer
+Social builder
+Social bricoleur
+•Local impact based
+on tacit knowledge
+of the context and
+local problems that
+you wish to
+address.
+
+. Fig. 6.1
+
+•Systemic change
+based on the
+identification of
+opportunities
+arising from a
+social problem .
+
+•Social
+transformation of
+the structures and
+institutions that
+maintain a global
+problem.
+
+Types of social entrepreneurs according to the type of impact they can achieve (Source Author)
+
+to create and improve social wealth (Zahra et al., 2009). Although
+they are not as advertised as other entrepreneurs, social bricoleurs
+perform essential social functions throughout the world.
+Their work is so subtle that they resist recognition or even
+exposure by governments and the media. They are less concerned
+about the scaling up of their initiatives, so that organizations that
+seek this element within a social enterprise may not appreciate the
+contributions of the social bricoleur.
+Case 6.1. Bárbara Diego and Her Effort to Dignify the Elderly Through Gericare
+Bárbara Diego’s interest in
+dignifying older adults started
+from her home; she lived with
+her family. For more than
+20 years, his family lived with a
+dependent older adult without
+knowing that the cause of his
+diminished mental capacity
+was Alzheimer’s. They traveled
+to the USA for treatment, then
+her husband died and so did
+her daughter, both uncharged
+to take care of her. Then she
+knew that she wanted to do
+something. She offered therapy
+for six years to seniors and their
+families. During those years,
+Barbara met Ana Sustiel, her
+business partner, who also
+worked as a psychologist for the
+elderly and families for a long
+time. They shared a passion
+for learning, which led them to
+study together with a Master
+in Psychotherapy. Later, they
+began to teach courses for
+families with patients diagnosed
+with dementia and, through
+their experience, they identified
+
+the insufficiency of the current
+models of attention to adults
+in the fourth age, giving rise to
+Gericare.
+Gericare is a gerontology service
+center with an innovative model
+for Mexico. It is different from
+the model of traditional care
+homes and asylums, where the
+elderly stayed for the rest of their
+lives. The model has three units.
+The first is a care center for the
+elderly, with modern equipment,
+located in the Central Business
+District of San Pedro Garza
+García. This place was meant for
+the elderly to feel enthusiastic
+about visiting and spending
+time with others, learning to feel
+comfortable with themselves
+again. To achieve it, the Day
+Club Program was established,
+which operates on three axes:
+(1) cognitive stimulation, (2)
+physical development, and
+(3) playful-social integration.
+The second unit is home care
+through personal assistants
+certified in treatment and care
+
+for the elderly. The third unit is
+the Gericare Services Network,
+a free service that provides
+information and knowledge
+to family members of senior
+citizens about their care and
+the importance of being close
+to them.
+Nearly ten years after its
+founding, Gericare provides
+services to seniors, in a Mexican
+context where the problems
+represented by this sector have
+not been addressed and taken
+into account. The model has
+proved its validity regarding the
+market, at the level of improving
+the living conditions of their
+patients and their integration
+with society. However, its
+impact is limited by the lack of
+awareness at the national level
+of the implications that the
+care of the elderly will have in
+the medium term, especially
+in a country where the youth
+demographic bonus begin to
+disappear.
+
+6
+
+88
+
+6
+
+Chapter 6 · Characteristics of the Social Entrepreneur
+
+The second type of social entrepreneur is the builder, characterized by its ability to identify opportunities within the market or
+society to build and introduce systemic changes, both at the level
+of ends and means. By introducing innovations, entrepreneurs
+successfully and profitably take advantage of opportunities to
+address the unmet needs of customers (Waddock & Post, 1991).
+Builders social entrepreneurs identify needs that are not being
+adequately met by companies or by the State to offer a good or
+service that radically changes the way to satisfy this need (Zahra
+et al., 2009).
+These entrepreneurs build and operate social enterprises that
+meet the needs of segments and populations that traditional companies have forgotten, either due to a lack of incentives or the way
+in which they do not address the causes that generate the problem,
+serving as a palliative to this situation (Chell, Nicolopoulou, &
+Karataş-Özkan, 2010). These social entrepreneurs are alert to the
+opportunities offered by a specific problem and decide to carry out
+an innovative action to address it.
+These entrepreneurs develop organizations that match the
+scale and scope of the social needs they seek to address, usually transcend the local level and reach an international level
+(Barki, Comini, Cunliffe, Hart, & Rai, 2015). Unlike bricoleurs
+who improvise solutions to local social problems on a small
+scale, social builders seek to remedy broader social problems by
+planning and developing scalable solutions formalized or systematized to meet growing needs. Their models could be transferred to other contexts, increasing their impact. The advantages
+of these entrepreneurs do not come from local knowledge; they
+result from their unique ability to detect and take advantage of
+those opportunities that generate social wealth by creating and
+reconfiguring the processes enacted to deliver goods and services.
+While social builders may face limited competition in the
+delivery of their solutions, competition for resources is often
+intense, as they require significant funding to create the vast and
+complex organizations needed to achieve the desired impact.
+Governments, NGOs, and charitable foundations are the traditional sources of financing for these entrepreneurs. Acquiring
+resources through collaborative companies often helps social
+builders to build, maintain, and grow their organizations. However, the diversity of financing can also restrict or even alter their
+missions.
+Social builders often have to develop and refine a capacity to
+raise funds, possibly diverting their attention from their primary
+mission. The need to be part of the staff of the organization can
+also influence the fate of this mission as professional employees,
+and volunteers begin to exercise control over its operations, strategies, and activities (Zahra et al., 2009). The need to acquire substantial resources also presents social builders with a paradox in
+the management and maintenance of its organizations.
+
+89
+
+6.5 · Types of Social Entrepreneurs
+
+Case 6.2. Algramo from the Neighborhood to the World, an Intelligent Solution by José Manuel Moller
+While José Manuel Moller
+studied Commercial Engineering
+at the Universidad Católica
+of Chile, he went to live in a
+town in the commune of La
+Granja with three friends. As
+they studied and worked,
+they had low incomes, which
+forced them to buy what they
+needed for day to day in small
+formats. José Manuel realized
+that buying in the store in his
+neighborhood; he pays much
+more than if he bought in bigger
+formats. Looking for a solution
+to this situation, José Manuel
+founds Algramo. The original
+idea was to create a machine
+that would bulk off the amount
+the customer wanted to buy,
+in order to pay a wholesale
+price for a small amount. These
+machines would be installed in
+warehouses since it is in these
+places where the problem
+occurs most frequently.
+In April 2013, Algramo began
+with the stage of development
+of the final dispensing machines.
+After a while, Algramo installed
+the first powder detergent
+dispensing machines. From the
+neighborhood, Algramo gains
+strength, giving rise to the
+
+constitution of a voluntary Board
+of Directors and chosen as the
+best Latin American project of
+Start-Up Chile, 7th Generation
+and winner of the Open Start-Up
+of UDD Ventures. For 2014,
+Algramo certified as Company
+B and implemented a sales
+system that does not involve
+the dispensing machine and
+thus does not depend on the
+manufacturing time of these. A
+system of manual sale is created
+using returnable containers,
+equal to that of beverages,
+maintaining the logic of sale in
+bulk. Families buy, consume the
+product, and return with the
+same packaging for their next
+purchase.
+In 2015, the B certification
+recognized it as the best
+company for the world and
+the best company for the
+community. Fast Company
+magazine selected Algramo as
+one of the 50 most innovative
+companies worldwide. In
+2016, the transition from
+Entrepreneurship to Social
+Enterprise was consolidated,
+with the birth of Operations,
+Sustainability, Human
+Resources, Communications,
+
+The last type of social entrepreneur is the engineer. This entrepreneur introduces dramatic changes in the social sphere, which
+resemble what great entrepreneurs in the world of commercial
+companies (e.g., Steve Jobs, UBER, among others). They are the
+engines of innovation and change, destroying obsolete systems,
+structures, and processes replacing it by newer and more appropriate ones (Martin & Osberg, 2007). By fracturing existing and often
+dominant institutions and replacing them with more socially efficient ones, social engineers can have a profound influence on society. These entrepreneurs can have high strength for social change.
+Given the “systemic” nature of the problems, social engineers
+often attack national, transnational, or global social problems. The
+revolutionary and ideological nature of the reforms they introduce
+is often a threat to the interests of established institutions and is
+sometimes considered subversive and illegitimate (Yunus, 2007).
+The scope and scale of their impacts, as well as the deficits of
+legitimacy that they could face, require that social engineers take
+advantage of popular support to fulfill their missions. As a result,
+
+Marketing, and Legal; the birth
+of the corporate culture was
+consolidated to improve the
+processes through which we
+were arriving at the warehouses.
+This year they are ranked No.
+11 in the world for the Best
+Companies for the World (Best
+For The World).
+In June 2017, the organization
+of the Universal Exhibition of
+Dubai (Expo 2020) announced
+that Algramo would participate
+in the event of the year 2020,
+and also received a grant for the
+development of new technology
+prototypes to provide cheap
+food and Internet connection
+to the most vulnerable
+communities. The Expo Live
+program of the Expo 2020
+in Dubai has an allocation of
+100 million dollars to support
+projects that offer creative
+solutions to the challenges that
+influence the lives of people or
+contribute to the conservation
+of the planet.
+Currently, Algramo has a
+presence in 1600 stores,
+serving 220,000 consumers in
+low-income neighborhoods and
+avoiding 180,200 kilograms of
+garbage.
+
+6
+
+90
+
+Chapter 6 · Characteristics of the Social Entrepreneur
+
+their ability to accumulate enough political capital to gather other
+necessary resources and achieve legitimacy supports their ability
+to act.
+Case 6.3. Muhammad Yunus. From Microfinance and Microcredit to Peace and Social Development of the Poor
+
+6
+
+Muhammad Yunus is a social
+entrepreneur and social leader
+who in 2006 received the Nobel
+Peace Prize for developing the
+Grameen Bank and being the
+developer of the concepts of
+microcredit and microfinance.
+These credits granted to
+entrepreneurs who are too
+poor to qualify for a loan in a
+traditional bank.
+In 1976, during his visits to the
+poorest neighborhoods in the
+city of Jobra near Chittagong
+University, Yunus discovered
+that small loans could make a
+considerable difference for poor
+people. Village women who
+made bamboo furniture had to
+accept a loan to buy bamboo
+and pay almost all their profits
+to the lender. Traditional banks
+did not want to offer small loans
+at a reasonable interest rate to
+the poor because of the risk that
+
+it meant. Yunus lent 27 dollars
+of her money to 42 village
+women who made a profit of
+0.50 Takas (US $ 0.02) on each
+loan. In December 1976, Yunus
+secured a loan from the Janata
+Bank to lend to Joba’s poor. The
+institution continues to operate,
+securing loans from other banks
+for its projects.
+By 1982, it had 28,000 members.
+On October 1, 1983, the pilot
+project went into operation
+as a full bank for the poor of
+Bangladesh with the name
+of Grameen Bank (“People’s
+Bank”). Yunus and his colleagues
+faced everything from
+violent right-wing radicals to
+conservative clergy that women
+who asked for Grameen Bank
+money would be denied a
+Muslim burial.
+By July 2007, the Grameen
+Bank had granted 6.38 billion
+
+dollars to 7.4 million people.
+To ensure the payment of the
+debt, the bank uses a system
+of “solidarity groups.” These
+small informal groups apply
+together to the loans, and their
+members guarantee payments
+among themselves and support
+each other’s efforts to achieve
+economic advancement.
+The success of the Grameen
+microfinance model has inspired
+similar efforts in approximately
+100 developing countries and
+even in developed countries
+such as the USA. Many
+microcredit projects retained the
+idea of lending to women. More
+than 94% of Grameen loans are
+for women who suffer disproportionately of poverty and tend
+more than men to allocate their
+earnings to their families.
+
+6.6  Leadership in Social Enterprises: The Need
+
+for Change as the Enterprise Grows Up
+
+Social entrepreneurs must not only fulfill a leadership that allows
+them to position themselves in the market or grow economically,
+but also must develop skills that allow them to effectively manage the conflicting demands that arise from the commitments
+to improve social welfare and achieve viability commercial. The
+social entrepreneur must have the ability to understand a total situation, seeing the whole and not just a part of the system, considering all the relationships that exist between the different factors of
+the situation. Social enterprises provide an environment in which
+the total situation combines the passion for a social mission with a
+pragmatic approach to the business purpose.
+Leadership in social enterprises is the capacity to make transformations and obtain outstanding results. The leaders of these
+ventures can make profound changes in their organizations or
+carry out successful social reforms in the midst of adverse circumstances, and how they manage to develop motivation and effectiveness among their followers. The ability of leaders established
+the work frameworks, values, and commitment within organizations. The task of the leader is to promote the organizational
+
+91
+
+. Fig. 6.2
+
+Participatory
+leadership
+Ability to
+delegate.
+Social
+entrepreneur
+builder.
+
+Social conglomerate.
+
+Leadership
+leadership.
+Ability to
+harmonize,
+motivate, share
+the vision and
+social
+commitment.
+Social
+entrepreneur
+bricoleur or
+builder.
+
+Decentralization.
+
+Charismatic
+leadership
+Entrepreneurial
+and diagnostic
+skills.
+Entrepreneur
+social bricoleur.
+
+Institutionalization
+
+Beginning.
+
+6.6 · Leadership in Social Enterprises: The Need …
+
+Political
+leadership
+Ability to
+coordinate,
+politics and
+negotiate.
+Social engineer
+entrepreneur.
+
+Stages followed in the process of development and consolidation of social enterprises (Source Author)
+
+­transformations that allow the growth and consolidation of the
+enterprises over time.
+Now, as in traditional companies, the social entrepreneur must
+make use of specific skills at certain times, defined according to
+the stage of his or her venture. A social enterprise that seeks social
+transformation can be visualized concerning four stages (Austin
+et al., 2006): beginning, institutionalization, decentralization, and
+social conglomerate (. Fig. 6.2). Due to the nature of each of them,
+the entrepreneur must play a role and a different style of leadership, and therefore, also the type of social entrepreneur may or
+may not favor the development of these stages.
+In the start stage, the social entrepreneur starts with an analysis
+of the context and the identification of a problem to take action.
+The interaction with other social actors and the environment
+in which they operate play an important role since the position
+that an individual occupies within society can facilitate entrepreneurship. The entrepreneur takes advantage of their relationships
+or contact networks to start the venture. Must have the ability to
+undertake, but also diagnostic, because through them is how to
+start to give life to its initiative. A charismatic leadership style contributes to obtaining the necessary resources to start social entrepreneurship. Usually, at this stage, the enterprises focus on the
+local area, so that a social entrepreneur bricoleur is the one who
+can favor its development.
+In the institutionalization stage, the aim is to stop relying on
+the leader and achieve the efficiency and effectiveness of the
+organization through the development of the necessary administrative structure, without losing sight of the social purpose of the
+initiative. The challenge is to secure the economic resources so that
+the enterprise achieves its financial sustainability and the adhesion of collaborators, forming a work team capable of managing
+the initiative. The leader presents the ability to harmonize, motivate and share the vision and social commitment that is required
+to achieve the expected impact. Management leadership uses
+systems and structures to give a precise orientation to its work
+team, and which, in a personal way, guides and exercises control
+over decision making at all levels of the organization. Continuous
+improvement and organizational learning should be constituted
+
+6
+
+92
+
+6
+
+Chapter 6 · Characteristics of the Social Entrepreneur
+
+as institutional goals, and as a tool to achieve the objectives. The
+institutionalization of entrepreneurship is critical to ensure the
+continuity of the initiative. In this case, a social entrepreneur bricoleur or builder can favor the consolidation of this stage.
+The decentralization stage creates teams capable of implementing social initiatives and efficiently manage the units created within
+the enterprise. Leadership consists of two dimensions: at a central
+level, strategic and related to the mission of the organization, and
+at a particular level, executive and related to the implementation
+and administration of specific ventures. The founding leader frequently remains at the central level, deciding to open or close units
+and, sometimes, the allocation of financial resources to develop
+different activities. Its most important ability is to delegate. Decentralization then allows organizations to carry out various social
+enterprises simultaneously. It is necessary to move from an individual leadership to participatory leadership, distributed decision
+making to different levels of the organization, so it is handy to carefully select those who will lead the different units of the enterprise.
+In this case, the social entrepreneur must be a builder, since it has
+to develop structures that favor the scaling of the enterprise.
+The social conglomerate consists of a set of organizations
+or units that independently develop social ventures and that,
+although they have their organizational structure, work under a
+shared strategy. The success of the operation and the social performance of these conglomerates depends on the centralization
+of certain critical aspects that give efficiency and effectiveness to
+the organization. Leadership in a social conglomerate is political
+and manifests itself from a centralized unit that dictates common
+strategic guidelines for the enterprises and coordinates critical
+functions so that it operates efficiently. In order to achieve the
+reorganization of tasks, the leaders use their political and negotiation capacity to assemble the different activities of the conglomerate under a common strategy and to reconcile the tensions that
+may arise between the different undertakings. The type of social
+entrepreneur ideal for this stage is the engineer.
+6.7  Conclusions
+
+The social entrepreneur is a critical element in the development
+and positioning of any social enterprise. It is an agent of change
+that, sensitive to a particular problem, decides to take action and
+creates an organization or initiative with the interest of responding to the problems it faces. This agent has different characteristics
+that differentiate him from a traditional entrepreneur, highlighting
+the fact that his happiness or self-realization focuses on the generation of social value and not on the generation of wealth.
+The implementation of this organization requires responding to various challenges, which must be addressed by the social
+entrepreneur systemically and appropriately. Perhaps the most significant challenge faced in the simultaneous generation of value
+(economic and social) and making decisions that allow the bal-
+
+6.8 · Exercise
+
+anced growth of social entrepreneurship: achieve social impact
+without compromising financial sustainability, and vice versa.
+At the moment of addressing a specific problem, the social
+entrepreneur is expected to have minimum characteristics to
+achieve it. However, its scalability is limited by the type of entrepreneur who carries it out and by the problems that it is desired to
+address. Those problems that arise exclusively at the local level will
+require a bricoleur social entrepreneur, as is the case of Gericare.
+A problem addressed through the transformation of the system
+will need a social engineer entrepreneur, as is the case of Yunus
+that has transformed the financial industry through its proposal of
+microcredits and promotion of social entrepreneurs.
+The growth of the social enterprise also requires an evolution in
+the appropriate leadership style according to its stage. In the beginning, the entrepreneur is charismatic, allowing him to add more people to his initiative. However, when it comes to scaling up its business
+and consolidating it, it requires a participatory style, where it delegates activities and favors the decentralization of its processes and
+achieves autonomy among its units. Because social transformation
+requires more actors involved, some social enterprises reach a stage
+of social conglomeration, where the political style of the social entrepreneur is critical to achieve its consolidation and operation, as has
+happened with the case of Coporación Mondragón (7 Chapter 5).
+It is important to remember that the social entrepreneur is
+an agent of change in the process of formation, so it is not necessary that from the beginning he has all the mentioned characteristics or skills or that he exercises some leadership or another. It
+is a problem, context, and entrepreneurship that defines the role,
+skills, and characteristics that the social entrepreneur should apply
+or develop, always taking into account that the ultimate goal is the
+transformation of society and attention to the causes presented by
+the problem that want to face.
+6.8  Exercise
+
+Taking into consideration the local or regional context of the place
+where you live, identify a problem that should be addressed. Identify who is currently solving this problem—at the local, national,
+or international level—and how they are doing it. Do an investigation about the founder or social entrepreneur and the social enterprise that directs and answers the following questions.
+5 What is the background of the social entrepreneur and what
+situation or aspect led him to undertake?
+5 Based on the background above, what kind of social entrepreneur is it?
+5 At what stage is social entrepreneurship?
+5 Using . Fig. 6.2, make a matrix where you can identify how the
+social entrepreneur developed the leadership style, skills, and
+type of entrepreneur in each of the stages.
+5 What challenges does the social entrepreneur currently face
+and what skills would he have to develop to overcome them?
+
+93
+
+6
+
+94
+
+Chapter 6 · Characteristics of the Social Entrepreneur
+
+6.9  Additional Resources
+
+Websites and lectures:
+5 If Billionaires Are A Cause Of Climate Change, Social Entrepreneurs Are A Solution
+5 7 https://www.forbes.com/sites/devinthorpe/2018/12/22/if-billionaires-are-a-cause-of-climate-change-social-entrepreneursare-a-solution/#56c84765123e
+
+5 Famous Social Entrepreneurs Doing Good and Making Money
+5 7 https://changecreator.com/8-famous-social-entrepreneurs-need-know/
+
+6
+
+5 Latin America Social Entrepreneurs Honoured at World Economic Forum Meeting in Mexico
+5 7 https://www.weforum.org/press/2015/05/latin-america-social-entrepreneurs-honoured-at-world-economic-forum-meeting-in-mexico/
+
+5 World-changers: meet the Social Entrepreneurs of the Year
+2018
+5 7 https://www.weforum.org/agenda/2018/09/world-changersmeet-the-social-entrepreneurs-of-the-year-2018/
+
+Videos:
+5 Social Entrepreneurs: Pioneering Social Change
+5 7 https://www.youtube.com/watch?v=jk5LI_WcosQ
+
+References
+Alter, S. K. (2006). Social enterprise models and their mission and money relationships. In A. Nicholls (Ed.), Social entrepreneurship: New models of sustainable social change (pp. 205–232). New York: Oxford University Press.
+Austin, J., Gutierrez, R., Ogliastri, E., & Reficco, E. (2006). Gestión efectiva de
+emprendimientos sociales. Lecciones extraídas de empresas y organizaciones
+de la sociedad civil en Iberoamérica (SEKN, Ed.). México, DF: Banco Interamericano de Desarrollo.
+Barki, E., Comini, G., Cunliffe, A., Hart, S., & Rai, S. (2015). Social entrepreneurship and social business: Retrospective and prospective research.
+RAE-Revista de Administração de Empresas, 55(4), 380–384. 7 https://doi.
+org/10.1007/978-3-8349-7093-0.
+Chell, E., Nicolopoulou, K., & Karataş-Özkan, M. (2010). Social entrepreneurship
+and enterprise: International and innovation perspectives. Entrepreneurship & Regional Development, 22(6), 485–493. 7 https://doi.org/10.1080/0
+8985626.2010.488396.
+Dey, P., & Teasdale, S. (2013). Social enterprise and dis/identification. Admin­
+istrative Theory & Praxis, 35(2), 248–270. 7 https://doi.org/10.2753/
+ATP1084-1806350204.
+Di Domenico, M., Haugh, H., & Tracey, P. (2010). Social bricolage: Theorizing
+social value creation in social enterprises. Entrepreneurship Theory and
+Practice, 34(4), 681–703.
+Grassl, W. (2012). Business models of social enterprise: A design approach to
+hybridity. ACRN Journal of Entrepreneurship Perspectives, 1(1), 37–60.
+Light, P. C. (2005). Searching for social entrepreneurs: Who they might
+be, where they might be found what they do, 1–27. 7 https://doi.
+org/10.1007/s13398-014-0173-7.2.
+Mair, J., Battilana, J., & Cardenas, J. (2012). Organizing for society: A typology of
+social entrepreneuring models. Journal of Business Ethics, 111(3), 353–373.
+
+95
+References
+
+Marshall, R. S. (2011). Conceptualizing the international for-profit social
+entrepreneur. Journal of Business Ethics, 98(2), 183–198. 7 https://doi.
+org/10.1007/s10551-010-0545-7.
+Martin, R. L., & Osberg, S. (2007). Social entrepreneurship: The case for definition. Stanford Social Innovation Review, 5(2), 28–39.
+Nicholls, A. (2013). Heroes. Journal of Social Entrepreneurship, 4(2), 109–112.
+Sastre-Castillo, M. A., Peris-Ortiz, M., & Danvila-Del Valle, I. (2015). What is different about the profile of the social entrepreneur? Nonprofit Management
+& Leadership, 4(Summer), 41–50. 7 https://doi.org/10.1002/nml.
+Tracey, P., & Phillips, N. (2007). The distinctive challenge of educating social
+entrepreneurs: A postscript and rejoinder to the special issue on entrepreneurship education. Academy of Management Learning and Education, 6(2),
+264–271. 7 https://doi.org/10.5465/AMLE.2007.25223465.
+Vázquez-Maguirre, M., & Portales, L. (2018). Profits and purpose: Organizational
+tensions in indigenous social enterprises, 14(4), 604–618.
+Waddock, S. A., & Post, J. E. (1991). Social entrepreneurs and catalytic change.
+Public Administration Review, 51(5), 393. 7 https://doi.org/10.2307/976408.
+Yunus, M. (2006). Social business entrepreneurs are the solution. Skoll World
+Forum on Social Entrepreneurship. Oxford: Said Business School, Oxford
+University.
+Yunus, M. (2007). Creating a world without poverty: Social business and the
+future of capitalism (K. Weber, Ed.) (1st ed.). New York: Public Affairs.
+Zahra, S. A., Gedajlovic, E., Neubaum, D. O., & Shulman, J. M. (2009). A typology
+of social entrepreneurs: Motives, search processes and ethical challenges.
+Journal of Business Venturing, 24(5), 519–532. 7 https://doi.org/10.1016/j.
+jbusvent.2008.04.007.
+
+6
+
+

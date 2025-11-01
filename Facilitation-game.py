@@ -41,17 +41,6 @@ class SocialEntrepreneurGame:
                 ),
                 "constraints": "Faces entrenched power structures and scrutiny from regulators and media.",
                 "strengths": "Ability to link micro evidence to macro reforms, strong governance acumen."
-            },
-            {
-                "name": "Nia",
-                "archetype": "Collective Social Entrepreneur",
-                "skills": "Facilitating shared leadership and cooperative enterprise design",
-                "background": (
-                    "Co-founded the Tides Makers Collective after organizing neighbourhood mutual aid "
-                    "networks during climate shocks."
-                ),
-                "constraints": "Distributed leadership can slow decisions; lean back-office infrastructure.",
-                "strengths": "High community legitimacy, inclusive governance, resilient peer networks."
             }
         ]
 
@@ -74,8 +63,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
                             "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Priya": {"min": 0.7, "mid": 1.0, "max": 1.4},
-                            "Nia": {"min": 1.2, "mid": 1.6, "max": 2.0}
+                            "Priya": {"min": 0.7, "mid": 1.0, "max": 1.4}
                         },
                         "theory": "Portales (2019) emphasises social sensitivity and mission clarity rooted in the community."
                     },
@@ -88,8 +76,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
                             "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
-                            "Priya": {"min": 1.4, "mid": 1.9, "max": 2.4},
-                            "Nia": {"min": 1.0, "mid": 1.4, "max": 1.8}
+                            "Priya": {"min": 1.4, "mid": 1.9, "max": 2.4}
                         },
                         "theory": "Balancing purpose with accountability responds to Portales' (2019) call for dual-mission discipline."
                     },
@@ -102,8 +89,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.5, "mid": 0.8, "max": 1.3},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Priya": {"min": 1.0, "mid": 1.5, "max": 2.0},
-                            "Nia": {"min": 0.7, "mid": 1.1, "max": 1.6}
+                            "Priya": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "Highlights early resource mobilisation tensions described by Portales (2019)."
                     }
@@ -127,8 +113,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.4, "mid": 1.9, "max": 2.4},
                             "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.9},
-                            "Priya": {"min": 0.6, "mid": 1.0, "max": 1.3},
-                            "Nia": {"min": 1.2, "mid": 1.6, "max": 2.0}
+                            "Priya": {"min": 0.6, "mid": 1.0, "max": 1.3}
                         },
                         "theory": "Zahra et al. (2009) describe Social Bricoleurs as masters of local improvisation."
                     },
@@ -141,8 +126,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Priya": {"min": 1.1, "mid": 1.6, "max": 2.1},
-                            "Nia": {"min": 1.0, "mid": 1.4, "max": 1.8}
+                            "Priya": {"min": 1.1, "mid": 1.6, "max": 2.1}
                         },
                         "theory": "Aligns with the Social Constructionist search process in Zahra et al. (2009)."
                     },
@@ -155,8 +139,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.6, "mid": 0.9, "max": 1.3},
                             "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Priya": {"min": 1.4, "mid": 2.0, "max": 2.6},
-                            "Nia": {"min": 0.9, "mid": 1.3, "max": 1.7}
+                            "Priya": {"min": 1.4, "mid": 2.0, "max": 2.6}
                         },
                         "theory": "Channels the Social Engineer ambition for systemic change (Zahra et al., 2009)."
                     }
@@ -182,8 +165,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.2, "mid": 1.6, "max": 2.0},
                             "Mateo": {"min": 0.9, "mid": 1.2, "max": 1.6},
-                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.9},
-                            "Nia": {"min": 1.3, "mid": 1.8, "max": 2.4}
+                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.9}
                         },
                         "theory": "Responds to Portales' (2019) call for stakeholder dialogue and legitimacy building."
                     },
@@ -196,8 +178,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.5, "mid": 0.9, "max": 1.3},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.5},
-                            "Priya": {"min": 1.1, "mid": 1.6, "max": 2.2},
-                            "Nia": {"min": 0.7, "mid": 1.1, "max": 1.5}
+                            "Priya": {"min": 1.1, "mid": 1.6, "max": 2.2}
                         },
                         "theory": "Illustrates the opportunity-risk trade-off when partnering with market actors (Zahra et al., 2009)."
                     },
@@ -210,8 +191,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.0, "mid": 1.3, "max": 1.8},
                             "Mateo": {"min": 1.1, "mid": 1.5, "max": 2.0},
-                            "Priya": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Nia": {"min": 0.9, "mid": 1.2, "max": 1.6}
+                            "Priya": {"min": 1.3, "mid": 1.9, "max": 2.4}
                         },
                         "theory": "Supports the adaptive, self-correcting mindset Portales (2019) and Zahra et al. (2009) describe."
                     }
@@ -236,8 +216,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.2, "mid": 1.7, "max": 2.2},
                             "Mateo": {"min": 0.9, "mid": 1.3, "max": 1.7},
-                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Nia": {"min": 1.4, "mid": 2.0, "max": 2.5}
+                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.8}
                         },
                         "theory": "Matches Portales' (2019) call to evolve leadership styles as ventures mature."
                     },
@@ -250,8 +229,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.7, "mid": 1.1, "max": 1.5},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Priya": {"min": 1.2, "mid": 1.8, "max": 2.3},
-                            "Nia": {"min": 1.0, "mid": 1.3, "max": 1.7}
+                            "Priya": {"min": 1.2, "mid": 1.8, "max": 2.3}
                         },
                         "theory": "Supports scaling a constructionist or engineering venture with stronger systems (Portales, 2019)."
                     },
@@ -264,8 +242,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.8, "mid": 1.2, "max": 1.6},
                             "Mateo": {"min": 1.1, "mid": 1.6, "max": 2.1},
-                            "Priya": {"min": 1.4, "mid": 2.0, "max": 2.6},
-                            "Nia": {"min": 1.0, "mid": 1.5, "max": 2.0}
+                            "Priya": {"min": 1.4, "mid": 2.0, "max": 2.6}
                         },
                         "theory": "Extends Social Engineer ambitions to catalyse system-wide diffusion (Zahra et al., 2009)."
                     }
@@ -290,8 +267,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
                             "Mateo": {"min": 0.8, "mid": 1.2, "max": 1.6},
-                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Nia": {"min": 1.2, "mid": 1.7, "max": 2.2}
+                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.8}
                         },
                         "theory": "Reflects the ethical guardrails and mission discipline Portales (2019) and Zahra et al. (2009) discuss."
                     },
@@ -304,8 +280,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.9, "mid": 1.3, "max": 1.7},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.5},
-                            "Priya": {"min": 1.2, "mid": 1.8, "max": 2.4},
-                            "Nia": {"min": 1.0, "mid": 1.4, "max": 1.9}
+                            "Priya": {"min": 1.2, "mid": 1.8, "max": 2.4}
                         },
                         "theory": "Engages the dual-value tension of sustaining economic and social wealth (Portales, 2019)."
                     },
@@ -318,8 +293,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.6, "mid": 1.0, "max": 1.4},
                             "Mateo": {"min": 1.0, "mid": 1.5, "max": 2.0},
-                            "Priya": {"min": 1.5, "mid": 2.1, "max": 2.7},
-                            "Nia": {"min": 0.8, "mid": 1.2, "max": 1.7}
+                            "Priya": {"min": 1.5, "mid": 2.1, "max": 2.7}
                         },
                         "theory": "Echoes Zahra et al. (2009) on Social Engineers confronting ethical and systemic risks."
                     }
@@ -371,14 +345,15 @@ def setup_teams():
     entrepreneur_images = {
         "Amara": "images/amara.png",
         "Mateo": "images/mateo.png",
-        "Priya": "images/priya.png",
-        "Nia": "images/nia.png"
+        "Priya": "images/priya.png"
     }
 
     col1, col2 = st.columns(2)
 
     team_names = []
-    for i in range(4):
+    num_profiles = len(game.entrepreneur_profiles)
+
+    for i in range(num_profiles):
         container = col1 if i < 2 else col2
 
         with container:
@@ -455,7 +430,7 @@ def show_briefing():
     st.markdown(
         """
         You're convened at the Social Entrepreneur Studio, a pop-up lab where community leaders, funders, and policy shapers
-        search for ventures that can transform entrenched inequities. The studio is monitoring **four real-time ventures**—
+        search for ventures that can transform entrenched inequities. The studio is monitoring **three real-time ventures**—
         each at a different point along the social entrepreneurship spectrum.
 
         Your team acts as the venture's leadership circle. Every choice you make is broadcast to the studio cohort,
@@ -764,8 +739,7 @@ def display_sidebar_info():
         entrepreneur_images = {
             "Amara": "images/amara.png",
             "Mateo": "images/mateo.png",
-            "Priya": "images/priya.png",
-            "Nia": "images/nia.png"
+            "Priya": "images/priya.png"
         }
 
         for team in st.session_state.teams:

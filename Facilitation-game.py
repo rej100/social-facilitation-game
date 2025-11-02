@@ -3,6 +3,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import random
 
 
 class SocialEntrepreneurGame:
@@ -56,8 +57,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Listening tour & story mapping",
                         "description": (
-                            "Invest in facilitated conversations with those most affected to surface lived-experience "
-                            "insights and refine your mission logic."
+                            "Hold listening circles with local families, staff, and partners to surface blind spots and tighten the mission story."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -70,7 +70,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Design your impact thesis & metrics",
                         "description": (
-                            "Prioritise a theory of change, learning agenda, and impact indicators before growing your footprint."
+                            "Co-design a draft impact thesis that blends stories and data, agreeing on what signals would actually trigger changes."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -83,7 +83,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Secure an early champion investor",
                         "description": (
-                            "Pitch to a values-aligned funder to gain credibility, even if your model is still forming."
+                            "Approach a values-aligned funder to bankroll early trials, accepting they will want a voice in how you learn."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -106,8 +106,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Prototype a micro-solution with existing assets",
                         "description": (
-                            "Double-down on bricolage: recombine community knowledge and underused resources to launch "
-                            "a lean pilot."
+                            "Build a lean pilot that stitches together community hacks and idle resources to see if local fixes can scale."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -120,7 +119,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Build a multi-sector service blueprint",
                         "description": (
-                            "Architect a platform that coordinates NGOs, business, and public agencies to fill unmet gaps at scale."
+                            "Map roles with NGOs, public agencies, and business partners so everyone knows their slice before you build infrastructure."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -133,7 +132,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Mobilize a policy advocacy coalition",
                         "description": (
-                            "Coordinate evidence, media, and grassroots voices to push for systemic policy shifts."
+                            "Coordinate evidence, media stories, and grassroots testimony into a shared policy ask, even if operations lag behind."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -159,7 +158,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Establish a shared accountability council",
                         "description": (
-                            "Create a governance group with beneficiaries, staff, and partners to review decisions and uphold legitimacy."
+                            "Create an accountability council of residents, staff, and funders that challenges decisions in real time, even when it slows things down."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -172,7 +171,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Forge a corporate impact partnership",
                         "description": (
-                            "Secure capital and infrastructure from a corporation eager to co-brand your solution."
+                            "Negotiate with a corporate ally for capital and logistics, weighing extra reach against the risks of co-branding."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -185,7 +184,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Invest in an outcomes learning lab",
                         "description": (
-                            "Allocate resources to measurement, rapid experimentation, and sharing insights across the ecosystem."
+                            "Fund a learning lab that runs rapid experiments, tests measures, and shares lessons across the ecosystem."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -210,7 +209,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Distribute leadership to local stewards",
                         "description": (
-                            "Invest in community-based leaders and devolve authority so your work remains rooted."
+                            "Train local stewards to manage budgets and decisions so leadership stays rooted, accepting the rollout will be uneven."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -223,7 +222,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Professionalize operations",
                         "description": (
-                            "Hire specialised management, codify processes, and seek formal accreditation."
+                            "Hire specialist managers to document processes, tighten compliance, and pursue accreditation."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -236,7 +235,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Open-source your playbook",
                         "description": (
-                            "Document and freely share your model so other communities can adapt it."
+                            "Publish your playbook openly so others can adapt it, even if versions appear that don’t match your standards."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -261,7 +260,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Decline misaligned funding & cultivate patient capital",
                         "description": (
-                            "Say no to a lucrative but mission-drifting offer and instead deepen relationships with slower, values-based capital."
+                            "Say no to a flashy but misaligned funder and deepen slower, values-first capital so you stay in control."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -274,7 +273,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Spin off a revenue-generating social business",
                         "description": (
-                            "Launch an earned-income arm that cross-subsidizes your social programs."
+                            "Launch an earned-income arm to subsidise programs, taking on the distraction of running a market-facing unit."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -287,7 +286,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Pursue policy reform that could disrupt operations",
                         "description": (
-                            "Push for structural change even if it risks cannibalising your current model."
+                            "Push for policy changes that would reset the system, knowing it could undercut your current model."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -472,6 +471,11 @@ def run_game_round(round_number: int):
     round_key = f"round_{round_number}_team_{team_index}"
     if f"{round_key}_selected_option" not in st.session_state:
         st.session_state[f"{round_key}_selected_option"] = None
+    order_key = f"{round_key}_option_order"
+    if order_key not in st.session_state:
+        shuffled_indices = list(range(len(round_data["options"])))
+        random.shuffle(shuffled_indices)
+        st.session_state[order_key] = shuffled_indices
 
     if current_points <= 0:
         st.error("No impact points left. You must pass this round.")
@@ -489,19 +493,24 @@ def run_game_round(round_number: int):
     st.markdown("### Strategic Options")
 
     if st.session_state[f"{round_key}_selected_option"] is None:
-        cols = st.columns(len(round_data["options"]))
+        option_order = st.session_state[order_key]
+        cols = st.columns(len(option_order))
 
-        for i, (col, option) in enumerate(zip(cols, round_data["options"])):
+        for display_idx, (col, option_index) in enumerate(zip(cols, option_order)):
+            option = round_data["options"][option_index]
             with col:
-                st.markdown(f"**Option {i + 1}: {option['title']}**")
+                st.markdown(f"**Option {display_idx + 1}: {option['title']}**")
                 st.markdown(option["description"])
 
                 min_points = min(option["points_range"][0], 5)
                 max_points = min(option["points_range"][1], 5)
                 st.markdown(f"*Investment window: {min_points}-{max_points} impact points*")
 
-                if st.button(f"Choose Option {i + 1}", key=f"option_{round_number}_{i}"):
-                    st.session_state[f"{round_key}_selected_option"] = i
+                if st.button(
+                    f"Choose Option {display_idx + 1}",
+                    key=f"option_{round_number}_{team_index}_{option_index}"
+                ):
+                    st.session_state[f"{round_key}_selected_option"] = option_index
                     st.rerun()
 
     if st.session_state[f"{round_key}_selected_option"] is not None:
@@ -577,6 +586,7 @@ def run_game_round(round_number: int):
                     }
                 )
 
+                st.session_state.pop(order_key, None)
                 st.session_state[f"{round_key}_selected_option"] = None
 
                 st.session_state.active_team = (team_index + 1) % len(st.session_state.teams)
@@ -601,6 +611,7 @@ def run_game_round(round_number: int):
             }
         )
 
+        st.session_state.pop(order_key, None)
         st.session_state.active_team = (team_index + 1) % len(st.session_state.teams)
 
         if st.session_state.active_team == 0:

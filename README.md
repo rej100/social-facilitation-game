@@ -6,8 +6,8 @@ This project is a game for our Social Entrepreneurship facilitation. The require
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-org>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/rej100/social-facilitation-game.git
+   cd social-facilitation-game
    ```
 2. **Create and activate a virtual environment**
    ```bash

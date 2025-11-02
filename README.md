@@ -1,6 +1,6 @@
 # Facilitation Game: Who is the Social Entrepreneur?
 
-This project is a game for our Social Entrepreneurship facilitation. The required readings that the facilitation has to be based on are in the `articles` folder
+This project is a game for our Social Entrepreneurship facilitation.
 
 ## Quick Start
 

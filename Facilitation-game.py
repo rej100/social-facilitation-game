@@ -471,7 +471,7 @@ def run_game_round(round_number: int):
     round_key = f"round_{round_number}_team_{team_index}"
     if f"{round_key}_selected_option" not in st.session_state:
         st.session_state[f"{round_key}_selected_option"] = None
-    order_key = f"{round_key}_option_order"
+    order_key = f"round_{round_number}_option_order"
     if order_key not in st.session_state:
         shuffled_indices = list(range(len(round_data["options"])))
         random.shuffle(shuffled_indices)
@@ -586,12 +586,12 @@ def run_game_round(round_number: int):
                     }
                 )
 
-                st.session_state.pop(order_key, None)
                 st.session_state[f"{round_key}_selected_option"] = None
 
                 st.session_state.active_team = (team_index + 1) % len(st.session_state.teams)
 
                 if st.session_state.active_team == 0:
+                    st.session_state.pop(order_key, None)
                     if round_number < st.session_state.total_rounds:
                         st.session_state.game_stage = f"round_{round_number + 1}"
                     else:
@@ -611,10 +611,10 @@ def run_game_round(round_number: int):
             }
         )
 
-        st.session_state.pop(order_key, None)
         st.session_state.active_team = (team_index + 1) % len(st.session_state.teams)
 
         if st.session_state.active_team == 0:
+            st.session_state.pop(order_key, None)
             if round_number < st.session_state.total_rounds:
                 st.session_state.game_stage = f"round_{round_number + 1}"
             else:

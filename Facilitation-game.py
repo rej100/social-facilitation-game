@@ -115,7 +115,7 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.9},
                             "Camille": {"min": 0.6, "mid": 1.0, "max": 1.3}
                         },
-                        "theory": "Zahra et al. (2009) describe Social Bricoleurs as masters of local improvisation."
+                        "theory": "Zahra et al. (2009) describe one of the archetypes as masters of local improvisation."
                     },
                     {
                         "title": "Build a multi-sector service blueprint",
@@ -128,7 +128,7 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
                             "Camille": {"min": 1.1, "mid": 1.6, "max": 2.1}
                         },
-                        "theory": "Aligns with the Social Constructionist search process in Zahra et al. (2009)."
+                        "theory": "An archetype focuses on systemic gaps that existing institutions aren't filling (Zahra et al. 2009)"
                     },
                     {
                         "title": "Mobilize a policy advocacy coalition",

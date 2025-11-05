@@ -76,7 +76,7 @@ class SocialEntrepreneurGame:
                         "points_range": (1, 5),
                         "outcome_mapping": {
                             "Amara": {"min": 0.5, "mid": 0.8, "max": 1.3},
-                            "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
+                            "Mateo": {"min": 1.3, "mid": 1.8, "max": 2.3},
                             "Camille": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "Highlights early resource mobilisation tensions described by Portales (2019)."
@@ -90,7 +90,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
                             "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
-                            "Camille": {"min": 1.4, "mid": 1.9, "max": 2.4}
+                            "Camille": {"min": 1.3, "mid": 1.8, "max": 2.3}
                         },
                         "theory": "Balancing purpose with accountability corresponds the need for staying disciplined in both the social and commercial aspect (Portales 2019)"
                     }
@@ -111,9 +111,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 1.4, "mid": 1.9, "max": 2.4},
-                            "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.9},
-                            "Camille": {"min": 0.6, "mid": 1.0, "max": 1.3}
+                            "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
+                            "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
+                            "Camille": {"min": 0.7, "mid": 1.0, "max": 1.4}
                         },
                         "theory": "Zahra et al. (2009) describe one of the archetypes as masters of local improvisation."
                     },
@@ -124,9 +124,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
-                            "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Camille": {"min": 1.1, "mid": 1.6, "max": 2.1}
+                            "Amara": {"min": 0.5, "mid": 0.8, "max": 1.3},
+                            "Mateo": {"min": 1.3, "mid": 1.8, "max": 2.3},
+                            "Camille": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "An archetype focuses on systemic gaps that existing institutions aren't filling (Zahra et al. 2009)"
                     },
@@ -137,9 +137,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Mateo": {"min": 1.1, "mid": 1.6, "max": 2.1},
-                            "Camille": {"min": 1.3, "mid": 1.9, "max": 2.5}
+                            "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
+                            "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
+                            "Camille": {"min": 1.3, "mid": 1.8, "max": 2.3}
                         },
                         "theory": "Zahra et al. (2009) say that careful listening is important for identyfing the parts of the system where small tweaks cause large improvements."
                     }
@@ -163,9 +163,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 1.2, "mid": 1.6, "max": 2.0},
-                            "Mateo": {"min": 0.9, "mid": 1.2, "max": 1.6},
-                            "Camille": {"min": 1.0, "mid": 1.4, "max": 1.9}
+                            "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
+                            "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
+                            "Camille": {"min": 0.7, "mid": 1.0, "max": 1.4}
                         },
                         "theory": "Matches the need for stakeholder dialogue and legitimacy building. (Portales 2019)"
                     },
@@ -176,9 +176,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 0.5, "mid": 0.9, "max": 1.3},
-                            "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.5},
-                            "Camille": {"min": 1.1, "mid": 1.6, "max": 2.2}
+                            "Amara": {"min": 0.5, "mid": 0.8, "max": 1.3},
+                            "Mateo": {"min": 1.3, "mid": 1.8, "max": 2.3},
+                            "Camille": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "Illustrates the opportunity-risk trade-off when partnering with market actors (Zahra et al., 2009)."
                     },
@@ -189,9 +189,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 1.0, "mid": 1.3, "max": 1.8},
-                            "Mateo": {"min": 1.1, "mid": 1.5, "max": 2.0},
-                            "Camille": {"min": 1.3, "mid": 1.9, "max": 2.4}
+                            "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
+                            "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
+                            "Camille": {"min": 1.3, "mid": 1.8, "max": 2.3}
                         },
                         "theory": "Supports the adaptive, self-correcting mindset that Portales (2019) and Zahra et al. (2009) describe."
                     }
@@ -214,9 +214,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 1.2, "mid": 1.7, "max": 2.2},
-                            "Mateo": {"min": 0.9, "mid": 1.3, "max": 1.7},
-                            "Camille": {"min": 1.0, "mid": 1.4, "max": 1.8}
+                            "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
+                            "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
+                            "Camille": {"min": 0.7, "mid": 1.0, "max": 1.4}
                         },
                         "theory": "Necessary leadership changes can hurt \"mission fidelity\" (Portales 2019)"
                     },
@@ -227,9 +227,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 0.7, "mid": 1.1, "max": 1.5},
-                            "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Camille": {"min": 1.2, "mid": 1.8, "max": 2.3}
+                            "Amara": {"min": 0.5, "mid": 0.8, "max": 1.3},
+                            "Mateo": {"min": 1.3, "mid": 1.8, "max": 2.3},
+                            "Camille": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "Supports scaling a benture with stronger formal systems for a type of social entrepreneur focused on building alternative structures (Portales, 2019)."
                     },
@@ -240,9 +240,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 0.8, "mid": 1.2, "max": 1.6},
-                            "Mateo": {"min": 1.1, "mid": 1.6, "max": 2.1},
-                            "Camille": {"min": 1.4, "mid": 2.0, "max": 2.6}
+                            "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
+                            "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
+                            "Camille": {"min": 1.3, "mid": 1.8, "max": 2.3}
                         },
                         "theory": "Extending ambitions to cause system-wide change (Zahra et al., 2009)."
                     }
@@ -266,8 +266,8 @@ class SocialEntrepreneurGame:
                         "points_range": (1, 5),
                         "outcome_mapping": {
                             "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
-                            "Mateo": {"min": 0.8, "mid": 1.2, "max": 1.6},
-                            "Camille": {"min": 1.0, "mid": 1.4, "max": 1.8}
+                            "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
+                            "Camille": {"min": 0.7, "mid": 1.0, "max": 1.4}
                         },
                         "theory": "Reflects the ethical guardrails and mission discipline as mentioned in Portales (2019) and Zahra et al. (2009) discuss."
                     },
@@ -278,9 +278,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 0.9, "mid": 1.3, "max": 1.7},
-                            "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.5},
-                            "Camille": {"min": 1.2, "mid": 1.8, "max": 2.4}
+                            "Amara": {"min": 0.5, "mid": 0.8, "max": 1.3},
+                            "Mateo": {"min": 1.3, "mid": 1.8, "max": 2.3},
+                            "Camille": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "Showcases the tension between sustaining economic and social wealth in later stages (Portales, 2019)."
                     },
@@ -291,9 +291,9 @@ class SocialEntrepreneurGame:
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 0.6, "mid": 1.0, "max": 1.4},
-                            "Mateo": {"min": 1.0, "mid": 1.5, "max": 2.0},
-                            "Camille": {"min": 1.5, "mid": 2.1, "max": 2.7}
+                            "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
+                            "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
+                            "Camille": {"min": 1.3, "mid": 1.8, "max": 2.3}
                         },
                         "theory": "Some social entrepreneurs are more susceptible to systemic risks. (Zahra et al. 2009)"
                     }

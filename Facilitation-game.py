@@ -120,7 +120,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Build a multi-sector service blueprint",
                         "description": (
-                            "Map roles with NGOs, public agencies, and business partners so everyone knows their slice before you build infrastructure."
+                            "Decide on roles between NGOs, public agencies, and business partners so everyone knows their job before you build infrastructure."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {

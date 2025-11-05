@@ -400,20 +400,19 @@ def show_introduction():
 
         ### Game Overview
         Each team stewards a different social entrepreneur archetype drawn from Zahra et al. (2009) and Portales (2019).
-        Your task is to navigate complex decisions that honour social value creation **and** organisational sustainability.
+        Your task is to navigate decisions that focus on social value creation and the sustainability of the organisation.
 
         ### Game Rules
         1. Teams begin with **10 shared impact points**.
         2. Every round you pick **one strategic move** and decide how many points (max 5) to invest.
         3. Outcomes depend on how well the move aligns with your entrepreneur’s archetype, investment level, and theory fit.
-        4. Impact conversions are revealed only after you confirm your decision—no scouting the payoff ahead of time!
-        5. Skipping a round banks your points but yields no learning for that turn.
-        6. The team with the highest impact points at the end demonstrates the most robust path to social wealth.
+        4. Skipping a round allows you to save your points, but you miss out on any potential gains.
+        5. The team with the highest impact points at the end wins!
 
         ### Concepts to Watch
-        - **Mission vs. Market tension** and accountability disciplines (Portales, 2019)
-        - **Typologies: Social Bricoleur, Constructionist, Engineer** (Zahra et al., 2009)
-        - **Leadership evolution and ethical guardrails** as ventures scale (Portales, 2019; Zahra et al., 2009)
+        - Mission vs. Market tension and accountability concerns (Portales, 2019)
+        - Typologies: Social Bricoleur, Constructionist, Engineer (Zahra et al., 2009)
+        - Leadership evolution and ethical concerns as ventures become succesful (Portales, 2019; Zahra et al., 2009)
         """
     )
 

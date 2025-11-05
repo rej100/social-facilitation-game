@@ -261,7 +261,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Decline misaligned funding & cultivate patient capital",
                         "description": (
-                            "Say no to a flashy but misaligned funder and deepen slower, values-first capital so you stay in control."
+                            "Say no to a generous but misaligned funder and focus further on slower, values-first capital so you stay in control."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -269,12 +269,12 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 0.8, "mid": 1.2, "max": 1.6},
                             "Camille": {"min": 1.0, "mid": 1.4, "max": 1.8}
                         },
-                        "theory": "Reflects the ethical guardrails and mission discipline Portales (2019) and Zahra et al. (2009) discuss."
+                        "theory": "Reflects the ethical guardrails and mission discipline as mentioned in Portales (2019) and Zahra et al. (2009) discuss."
                     },
                     {
-                        "title": "Spin off a revenue-generating social business",
+                        "title": "Spin off a revenue-generating unit from the business",
                         "description": (
-                            "Launch an earned-income arm to subsidise programs, taking on the distraction of running a market-facing unit."
+                            "Launch an income focused arm to subsidise social programs, taking on the distraction of running a fully market focused unit."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -282,12 +282,12 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.5},
                             "Camille": {"min": 1.2, "mid": 1.8, "max": 2.4}
                         },
-                        "theory": "Engages the dual-value tension of sustaining economic and social wealth (Portales, 2019)."
+                        "theory": "Showcases the tension between sustaining economic and social wealth in later stages (Portales, 2019)."
                     },
                     {
                         "title": "Pursue policy reform that could disrupt operations",
                         "description": (
-                            "Push for policy changes that would reset the system, knowing it could undercut your current model."
+                            "Use your influence to push for policy changes that would reset the system, knowing it could make your current business model obsolete."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -295,11 +295,11 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.0, "mid": 1.5, "max": 2.0},
                             "Camille": {"min": 1.5, "mid": 2.1, "max": 2.7}
                         },
-                        "theory": "Echoes Zahra et al. (2009) on Social Engineers confronting ethical and systemic risks."
+                        "theory": "Some social entrepreneurs are more susceptible to systemic risks. (Zahra et al. 2009)"
                     }
                 ],
                 "scenario_update": (
-                    "Impact investors, policy makers, and community allies are all watching your next move to see what legacy you lock in."
+                    "Investors, policy makers, and community allies are all watching your next move to see what type of legacy you decide one."
                 )
             }
         ]

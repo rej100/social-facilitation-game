@@ -699,27 +699,18 @@ def show_results():
     with st.expander("What differentiates social entrepreneurs? (Portales, 2019)"):
         st.markdown(
             """
-            - Social entrepreneurs anchor on **social value propositions** while sustaining economic viability.
-            - They manage tensions between **mission fidelity** and market realities through accountability practices.
-            - Leadership must evolve from founder-centric drive to distributed stewardship as the venture matures.
+            - Social entrepreneurs focus on social value propositions while sustaining economic viability.
+            - They manage tensions between mission fidelity and market realities with accountability practices.
+            - Leadership must evolve from founder-centric drive to distributed leadership as the venture matures.
             """
         )
 
     with st.expander("Typology of change agents (Zahra et al., 2009)"):
         st.markdown(
             """
-            - **Social Bricoleurs** leverage tacit, local knowledge to tackle indiscernible needs.
-            - **Social Constructionists** orchestrate partners and scale services to close market gaps.
-            - **Social Engineers** attempt systemic redesign, accepting higher ethical and political exposure.
-            """
-        )
-
-    with st.expander("Ethics, governance, and scaling tensions"):
-        st.markdown(
-            """
-            - Balancing economic instruments with social wealth goals exposes ventures to ethical drift.
-            - Shared governance and learning systems boost legitimacy but demand additional capacity.
-            - Deciding when to codify, open-source, or disrupt the system defines the legacy of the enterprise.
+            - Social Bricoleurs leverage tacit, local knowledge to tackle specific needs.
+            - Social Constructionists orchestrate partners and scale services to close market gaps.
+            - Social Engineers attempt systemic redesign, accepting higher ethical and political exposure.
             """
         )
 
@@ -727,10 +718,9 @@ def show_results():
     st.markdown(
         """
         1. How did your archetype's strengths and constraints inform the decisions you felt confident making?
-        2. Where did you experience mission–market or ethical tensions, and how did the readings help you argue your case?
+        2. Where did you experience mission–market or ethical tensions, and how did the readings help you make you decision?
         3. If you had another round, what governance or leadership shift would you prioritise to sustain social wealth?
         4. How can allies (funders, policymakers, corporates) recognise and support different archetypes without forcing convergence?
-        5. Which insights from Portales (2019) or Zahra et al. (2009) will you bring into the actual facilitation dialogue?
         """
     )
 

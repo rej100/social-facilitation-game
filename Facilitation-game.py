@@ -33,15 +33,15 @@ class SocialEntrepreneurGame:
                 "strengths": "Maps how partners fit together, speaks the language of each sector, and can broker deals quickly."
             },
             {
-                "name": "Priya",
+                "name": "Camille",
                 "archetype": "Social Engineer",
-                "skills": "Policy design, evidence translation, and campaigning",
+                "skills": "Blended finance structuring, housing policy, and coalition bargaining",
                 "background": (
-                    "Former policy analyst who saw evidence on structural exclusion ignored and now drafts budget reforms "
-                    "that direct housing and health funds to under-served districts."
+                    "Former city redevelopment analyst who founded Keys Forward, a hybrid housing venture that turns vacant "
+                    "buildings into permanently affordable homes through community land trusts and municipal guarantees."
                 ),
-                "constraints": "Faces pushback from powerful agencies and constant media scrutiny of every proposal.",
-                "strengths": "Connects street-level data to national policy briefs and spots governance risks before they surface."
+                "constraints": "Every deal requires keeping city councils, impact investors, and resident boards aligned while permits crawl.",
+                "strengths": "Braids public and patient capital, earns trust with tenant leaders, and documents playbooks other cities can copy."
             }
         ]
 
@@ -63,7 +63,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
                             "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Priya": {"min": 0.7, "mid": 1.0, "max": 1.4}
+                            "Camille": {"min": 0.7, "mid": 1.0, "max": 1.4}
                         },
                         "theory": "Portales (2019) emphasises social sensitivity and mission clarity rooted in the community."
                     },
@@ -76,7 +76,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
                             "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
-                            "Priya": {"min": 1.4, "mid": 1.9, "max": 2.4}
+                            "Camille": {"min": 1.4, "mid": 1.9, "max": 2.4}
                         },
                         "theory": "Balancing purpose with accountability responds to Portales' (2019) call for dual-mission discipline."
                     },
@@ -89,7 +89,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.5, "mid": 0.8, "max": 1.3},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Priya": {"min": 1.0, "mid": 1.5, "max": 2.0}
+                            "Camille": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "Highlights early resource mobilisation tensions described by Portales (2019)."
                     }
@@ -112,7 +112,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.4, "mid": 1.9, "max": 2.4},
                             "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.9},
-                            "Priya": {"min": 0.6, "mid": 1.0, "max": 1.3}
+                            "Camille": {"min": 0.6, "mid": 1.0, "max": 1.3}
                         },
                         "theory": "Zahra et al. (2009) describe Social Bricoleurs as masters of local improvisation."
                     },
@@ -125,7 +125,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Priya": {"min": 1.1, "mid": 1.6, "max": 2.1}
+                            "Camille": {"min": 1.1, "mid": 1.6, "max": 2.1}
                         },
                         "theory": "Aligns with the Social Constructionist search process in Zahra et al. (2009)."
                     },
@@ -138,7 +138,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.6, "mid": 0.9, "max": 1.3},
                             "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Priya": {"min": 1.4, "mid": 2.0, "max": 2.6}
+                            "Camille": {"min": 1.4, "mid": 2.0, "max": 2.6}
                         },
                         "theory": "Channels the Social Engineer ambition for systemic change (Zahra et al., 2009)."
                     }
@@ -164,7 +164,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.2, "mid": 1.6, "max": 2.0},
                             "Mateo": {"min": 0.9, "mid": 1.2, "max": 1.6},
-                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.9}
+                            "Camille": {"min": 1.0, "mid": 1.4, "max": 1.9}
                         },
                         "theory": "Responds to Portales' (2019) call for stakeholder dialogue and legitimacy building."
                     },
@@ -177,7 +177,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.5, "mid": 0.9, "max": 1.3},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.5},
-                            "Priya": {"min": 1.1, "mid": 1.6, "max": 2.2}
+                            "Camille": {"min": 1.1, "mid": 1.6, "max": 2.2}
                         },
                         "theory": "Illustrates the opportunity-risk trade-off when partnering with market actors (Zahra et al., 2009)."
                     },
@@ -190,7 +190,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.0, "mid": 1.3, "max": 1.8},
                             "Mateo": {"min": 1.1, "mid": 1.5, "max": 2.0},
-                            "Priya": {"min": 1.3, "mid": 1.9, "max": 2.4}
+                            "Camille": {"min": 1.3, "mid": 1.9, "max": 2.4}
                         },
                         "theory": "Supports the adaptive, self-correcting mindset Portales (2019) and Zahra et al. (2009) describe."
                     }
@@ -215,7 +215,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.2, "mid": 1.7, "max": 2.2},
                             "Mateo": {"min": 0.9, "mid": 1.3, "max": 1.7},
-                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.8}
+                            "Camille": {"min": 1.0, "mid": 1.4, "max": 1.8}
                         },
                         "theory": "Matches Portales' (2019) call to evolve leadership styles as ventures mature."
                     },
@@ -228,7 +228,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.7, "mid": 1.1, "max": 1.5},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
-                            "Priya": {"min": 1.2, "mid": 1.8, "max": 2.3}
+                            "Camille": {"min": 1.2, "mid": 1.8, "max": 2.3}
                         },
                         "theory": "Supports scaling a constructionist or engineering venture with stronger systems (Portales, 2019)."
                     },
@@ -241,7 +241,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.8, "mid": 1.2, "max": 1.6},
                             "Mateo": {"min": 1.1, "mid": 1.6, "max": 2.1},
-                            "Priya": {"min": 1.4, "mid": 2.0, "max": 2.6}
+                            "Camille": {"min": 1.4, "mid": 2.0, "max": 2.6}
                         },
                         "theory": "Extends Social Engineer ambitions to catalyse system-wide diffusion (Zahra et al., 2009)."
                     }
@@ -266,7 +266,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 1.3, "mid": 1.8, "max": 2.3},
                             "Mateo": {"min": 0.8, "mid": 1.2, "max": 1.6},
-                            "Priya": {"min": 1.0, "mid": 1.4, "max": 1.8}
+                            "Camille": {"min": 1.0, "mid": 1.4, "max": 1.8}
                         },
                         "theory": "Reflects the ethical guardrails and mission discipline Portales (2019) and Zahra et al. (2009) discuss."
                     },
@@ -279,7 +279,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.9, "mid": 1.3, "max": 1.7},
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.5},
-                            "Priya": {"min": 1.2, "mid": 1.8, "max": 2.4}
+                            "Camille": {"min": 1.2, "mid": 1.8, "max": 2.4}
                         },
                         "theory": "Engages the dual-value tension of sustaining economic and social wealth (Portales, 2019)."
                     },
@@ -292,7 +292,7 @@ class SocialEntrepreneurGame:
                         "outcome_mapping": {
                             "Amara": {"min": 0.6, "mid": 1.0, "max": 1.4},
                             "Mateo": {"min": 1.0, "mid": 1.5, "max": 2.0},
-                            "Priya": {"min": 1.5, "mid": 2.1, "max": 2.7}
+                            "Camille": {"min": 1.5, "mid": 2.1, "max": 2.7}
                         },
                         "theory": "Echoes Zahra et al. (2009) on Social Engineers confronting ethical and systemic risks."
                     }
@@ -344,7 +344,7 @@ def setup_teams():
     entrepreneur_images = {
         "Amara": "images/amara.png",
         "Mateo": "images/mateo.png",
-        "Priya": "images/priya.png"
+        "Camille": "images/camille.png"
     }
 
     col1, col2 = st.columns(2)
@@ -750,7 +750,7 @@ def display_sidebar_info():
         entrepreneur_images = {
             "Amara": "images/amara.png",
             "Mateo": "images/mateo.png",
-            "Priya": "images/priya.png"
+            "Camille": "images/camille.png"
         }
 
         for team in st.session_state.teams:

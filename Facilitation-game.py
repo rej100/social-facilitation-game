@@ -427,12 +427,11 @@ def show_briefing():
 
     st.markdown(
         """
-        You're convened at the Social Entrepreneur Studio, a pop-up lab where community leaders, funders, and policy shapers
-        search for ventures that can transform entrenched inequities. The studio is monitoring **three real-time ventures**—
-        each at a different point along the social entrepreneurship spectrum.
+        You are at the Social Entrepreneur Studio, a gathering where community leaders, funders, and policy shapers
+        search for ventures that can make real social impact. The studio is monitoring three real-time ventures.
 
-        Your team acts as the venture's leadership circle. Every choice you make is broadcast to the studio cohort,
-        surfacing live tensions from the readings. Listen to your archetype, trust the theories, and watch the scoreboard.
+        Your team acts as the venture's leadership circle. Every choice you make is broadcast to the studio,
+        showcasing different ideas from the readings.
         """
     )
 

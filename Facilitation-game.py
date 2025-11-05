@@ -152,8 +152,8 @@ class SocialEntrepreneurGame:
             {
                 "title": "Resource Strategy & Accountability",
                 "description": (
-                    "Momentum attracts resources—and scrutiny. How you structure accountability and learning now determines "
-                    "whether you can manage the dual mission pressures Portales (2019) highlights."
+                    "Progress attracts resources, but also scrutiny. How you structure accountability and learning now determines "
+                    "whether you can manage the pressure from the dual-mission pressure that Portales (2019) highlights."
                 ),
                 "options": [
                     {

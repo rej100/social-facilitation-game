@@ -15,7 +15,7 @@ class SocialEntrepreneurGame:
                 "archetype": "Social Bricoleur",
                 "skills": "Community health navigation & storytelling",
                 "background": (
-                    "Former community midwife in Riverbend who lost a neighbour to a preventable "
+                    "Former community midwife who lost a neighbour to a preventable "
                     "birth complication and now coordinates wrap-around support for mothers."
                 ),
                 "constraints": "Limited institutional funding; balances caregiving with organizing work.",

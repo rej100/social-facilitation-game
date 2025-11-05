@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 
+RANDOMIZE_OPTION_ORDER = True
 
 class SocialEntrepreneurGame:
     def __init__(self):
@@ -471,9 +472,10 @@ def run_game_round(round_number: int):
         st.session_state[f"{round_key}_selected_option"] = None
     order_key = f"round_{round_number}_option_order"
     if order_key not in st.session_state:
-        shuffled_indices = list(range(len(round_data["options"])))
-        random.shuffle(shuffled_indices)
-        st.session_state[order_key] = shuffled_indices
+        indices = list(range(len(round_data["options"])))
+        if RANDOMIZE_OPTION_ORDER:
+            random.shuffle(indices)
+        st.session_state[order_key] = indices
 
     if current_points <= 0:
         st.error("No impact points left. You must pass this round.")

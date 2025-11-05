@@ -131,17 +131,17 @@ class SocialEntrepreneurGame:
                         "theory": "An archetype focuses on systemic gaps that existing institutions aren't filling (Zahra et al. 2009)"
                     },
                     {
-                        "title": "Mobilize a policy advocacy coalition",
+                        "title": "Institutional Listening Tour",
                         "description": (
-                            "Coordinate evidence, media stories, and grassroots testimony into a shared policy ask, even if operations lag behind."
+                            "Bring frontline staff, city officials, and regulators to the same table for no-pressure conversations about what isn't working, then agree on the biggest fixes to go after first."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
-                            "Amara": {"min": 0.6, "mid": 0.9, "max": 1.3},
-                            "Mateo": {"min": 1.0, "mid": 1.4, "max": 1.8},
-                            "Camille": {"min": 1.4, "mid": 2.0, "max": 2.6}
+                            "Amara": {"min": 1.0, "mid": 1.4, "max": 1.8},
+                            "Mateo": {"min": 1.1, "mid": 1.6, "max": 2.1},
+                            "Camille": {"min": 1.3, "mid": 1.9, "max": 2.5}
                         },
-                        "theory": "Channels the Social Engineer ambition for systemic change (Zahra et al., 2009)."
+                        "theory": "Zahra et al. (2009) note that careful listening helps spot the parts of the system where small tweaks unlock much bigger improvements."
                     }
                 ],
                 "scenario_update": (

@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 
-RANDOMIZE_OPTION_ORDER = True
+RANDOMIZE_OPTION_ORDER = False
 
 class SocialEntrepreneurGame:
     def __init__(self):
@@ -69,19 +69,6 @@ class SocialEntrepreneurGame:
                         "theory": "Portales (2019) emphasises social sensitivity and mission clarity rooted in the community."
                     },
                     {
-                        "title": "Design your impact thesis & metrics",
-                        "description": (
-                            "Co-design a draft impact thesis that blends stories and data, agreeing on what signals would actually trigger changes."
-                        ),
-                        "points_range": (1, 5),
-                        "outcome_mapping": {
-                            "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
-                            "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
-                            "Camille": {"min": 1.4, "mid": 1.9, "max": 2.4}
-                        },
-                        "theory": "Balancing purpose with accountability responds to Portales' (2019) call for dual-mission discipline."
-                    },
-                    {
                         "title": "Secure an early champion investor",
                         "description": (
                             "Approach a values-aligned funder to bankroll early trials, accepting they will want a voice in how you learn."
@@ -93,6 +80,19 @@ class SocialEntrepreneurGame:
                             "Camille": {"min": 1.0, "mid": 1.5, "max": 2.0}
                         },
                         "theory": "Highlights early resource mobilisation tensions described by Portales (2019)."
+                    },
+                    {
+                        "title": "Design your impact thesis & metrics",
+                        "description": (
+                            "Co-design a draft impact thesis that blends stories and data, agreeing on what signals would actually trigger changes."
+                        ),
+                        "points_range": (1, 5),
+                        "outcome_mapping": {
+                            "Amara": {"min": 0.9, "mid": 1.2, "max": 1.6},
+                            "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
+                            "Camille": {"min": 1.4, "mid": 1.9, "max": 2.4}
+                        },
+                        "theory": "Balancing purpose with accountability responds to Portales' (2019) call for dual-mission discipline."
                     }
                 ],
                 "scenario_update": ""

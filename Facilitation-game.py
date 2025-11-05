@@ -167,12 +167,12 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 0.9, "mid": 1.2, "max": 1.6},
                             "Camille": {"min": 1.0, "mid": 1.4, "max": 1.9}
                         },
-                        "theory": "Responds to Portales' (2019) call for stakeholder dialogue and legitimacy building."
+                        "theory": "Matches the need for stakeholder dialogue and legitimacy building. (Portales 2019)"
                     },
                     {
                         "title": "Forge a corporate impact partnership",
                         "description": (
-                            "Negotiate with a corporate ally for capital and logistics, weighing extra reach against the risks of co-branding."
+                            "Negotiate with a corporate ally for capital and logistics, weighing extra reach against the risks of heavily associating with their brand."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -185,7 +185,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Invest in an outcomes learning lab",
                         "description": (
-                            "Fund a learning lab that runs rapid experiments, tests measures, and shares lessons across the ecosystem."
+                            "Create a learning lab that runs rapid experiments, tests measures, and shares lessons across your ecosystem."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -193,7 +193,7 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.1, "mid": 1.5, "max": 2.0},
                             "Camille": {"min": 1.3, "mid": 1.9, "max": 2.4}
                         },
-                        "theory": "Supports the adaptive, self-correcting mindset Portales (2019) and Zahra et al. (2009) describe."
+                        "theory": "Supports the adaptive, self-correcting mindset that Portales (2019) and Zahra et al. (2009) describe."
                     }
                 ],
                 "scenario_update": (

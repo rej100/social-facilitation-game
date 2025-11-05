@@ -204,13 +204,13 @@ class SocialEntrepreneurGame:
                 "title": "Leading for Scale",
                 "description": (
                     "Traction now forces leadership evolution. How you structure governance and replication decides whether you can grow "
-                    "without losing soul."
+                    "without losing sight of you social mission."
                 ),
                 "options": [
                     {
-                        "title": "Distribute leadership to local stewards",
+                        "title": "Distribute leadership to local leaders",
                         "description": (
-                            "Train local stewards to manage budgets and decisions so leadership stays rooted, accepting the rollout will be uneven."
+                            "Train local leaders to manage budgets and decisions so leadership stays rooted, accepting that some will do their jobs better than others and instructions might not be followed perfectly."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -218,7 +218,7 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 0.9, "mid": 1.3, "max": 1.7},
                             "Camille": {"min": 1.0, "mid": 1.4, "max": 1.8}
                         },
-                        "theory": "Matches Portales' (2019) call to evolve leadership styles as ventures mature."
+                        "theory": "Necessary leadership changes can hurt \"mission fidelity\" (Portales 2019)"
                     },
                     {
                         "title": "Professionalize operations",
@@ -231,7 +231,7 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.3, "mid": 1.9, "max": 2.4},
                             "Camille": {"min": 1.2, "mid": 1.8, "max": 2.3}
                         },
-                        "theory": "Supports scaling a constructionist or engineering venture with stronger systems (Portales, 2019)."
+                        "theory": "Supports scaling a benture with stronger formal systems for a type of social entrepreneur focused on building alternative structures (Portales, 2019)."
                     },
                     {
                         "title": "Open-source your playbook",
@@ -244,11 +244,11 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.1, "mid": 1.6, "max": 2.1},
                             "Camille": {"min": 1.4, "mid": 2.0, "max": 2.6}
                         },
-                        "theory": "Extends Social Engineer ambitions to catalyse system-wide diffusion (Zahra et al., 2009)."
+                        "theory": "Extending ambitions to cause system-wide change (Zahra et al., 2009)."
                     }
                 ],
                 "scenario_update": (
-                    "Regional governments and global networks are pointing to your results. Replication requests and compliance checks are piling up."
+                    "Regional governments and global networks have noticed your results. Replication requests and compliance checks are piling up."
                 )
             },
             {

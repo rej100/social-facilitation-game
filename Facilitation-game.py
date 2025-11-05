@@ -84,7 +84,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Design your impact thesis & metrics",
                         "description": (
-                            "Co-design a draft impact thesis that blends stories and data, agreeing on what signals would actually trigger changes."
+                            "Work with you stakeholders to draft an impact thesis that combines stories and data, agreeing on what actions would actually trigger changes."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -92,7 +92,7 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.2, "mid": 1.6, "max": 2.0},
                             "Camille": {"min": 1.4, "mid": 1.9, "max": 2.4}
                         },
-                        "theory": "Balancing purpose with accountability responds to Portales' (2019) call for dual-mission discipline."
+                        "theory": "Balancing purpose with accountability corresponds the need for staying disciplined in both the social and commercial aspect (Portales 2019)"
                     }
                 ],
                 "scenario_update": ""

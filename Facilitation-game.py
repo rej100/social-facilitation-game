@@ -400,7 +400,7 @@ def show_introduction():
         ## Welcome to the Impact Studio
 
         ### Game Overview
-        Each team stewards a different social entrepreneur archetype drawn from Zahra et al. (2009) and Portales (2019).
+        Each team plays as a different social entrepreneur archetype from Zahra et al. (2009) and Portales (2019).
         Your task is to navigate decisions that focus on social value creation and the sustainability of the organisation.
 
         ### Game Rules

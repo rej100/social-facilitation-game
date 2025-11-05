@@ -49,9 +49,9 @@ class SocialEntrepreneurGame:
             {
                 "title": "Catalyst Moment",
                 "description": (
-                    "Each venture is translating its tipping-point story into an actionable mission. "
-                    "You must steward the passion for justice into a direction that keeps social value "
-                    "at the centre while preparing for execution."
+                    "Your venture just hit a tipping point. "
+                    "You need to turn the momentum into a concrete mission that focuses on social value, "
+                    "while also preparing to implement your plan."
                 ),
                 "options": [
                     {

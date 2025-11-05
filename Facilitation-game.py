@@ -71,7 +71,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Secure an early champion investor",
                         "description": (
-                            "Approach a values-aligned funder to bankroll early trials, accepting they will want a voice in how you learn."
+                            "Approach a values-aligned funder to bankroll early trials, accepting they will want a say in how you operate."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {

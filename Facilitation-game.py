@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 
-RANDOMIZE_OPTION_ORDER = False
+RANDOMIZE_OPTION_ORDER = True
 
 class SocialEntrepreneurGame:
     def __init__(self):

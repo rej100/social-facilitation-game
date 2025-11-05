@@ -13,35 +13,35 @@ class SocialEntrepreneurGame:
             {
                 "name": "Amara",
                 "archetype": "Social Bricoleur",
-                "skills": "Community health navigation & storytelling",
+                "skills": "Community health navigation and plain-language storytelling",
                 "background": (
-                    "Former community midwife who lost a neighbour to a preventable "
-                    "birth complication and now coordinates wrap-around support for mothers."
+                    "Former community midwife who lost a neighbour to a preventable birth complication "
+                    "and now runs weekly clinic escorts and home check-ins for expectant mothers."
                 ),
-                "constraints": "Limited institutional funding; balances caregiving with organizing work.",
-                "strengths": "Deep trust with families, tacit knowledge of local systems, highly adaptive."
+                "constraints": "Lives on small grants and must juggle caregiving with the support network she coordinates.",
+                "strengths": "Families call her first because she knows every local clinic and can improvise workable fixes fast."
             },
             {
                 "name": "Mateo",
                 "archetype": "Social Constructionist",
-                "skills": "Coalition building across schools, business, and civic actors",
+                "skills": "Coalition building across schools, businesses, and city agencies",
                 "background": (
-                    "Teacher-turned-ecosystem designer who is building an inclusive skills pipeline for "
-                    "young people shut out of formal employment."
+                    "Former public-school teacher who now coordinates a skills pipeline pairing apprenticeships, "
+                    "evening classes, and employer mentors for young people locked out of formal jobs."
                 ),
-                "constraints": "Needs validation from multiple stakeholders; complex partnership governance.",
-                "strengths": "Systems thinking around service design, credibility with public-private partners."
+                "constraints": "Has to keep funders, principals, and employers aligned each quarter or commitments fall through.",
+                "strengths": "Maps how partners fit together, speaks the language of each sector, and can broker deals quickly."
             },
             {
                 "name": "Priya",
                 "archetype": "Social Engineer",
                 "skills": "Policy design, evidence translation, and campaigning",
                 "background": (
-                    "Former public policy analyst who witnessed data on structural exclusion being ignored "
-                    "and is now crafting reforms to redirect public budgets."
+                    "Former policy analyst who saw evidence on structural exclusion ignored and now drafts budget reforms "
+                    "that direct housing and health funds to under-served districts."
                 ),
-                "constraints": "Faces entrenched power structures and scrutiny from regulators and media.",
-                "strengths": "Ability to link micro evidence to macro reforms, strong governance acumen."
+                "constraints": "Faces pushback from powerful agencies and constant media scrutiny of every proposal.",
+                "strengths": "Connects street-level data to national policy briefs and spots governance risks before they surface."
             }
         ]
 

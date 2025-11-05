@@ -133,7 +133,7 @@ class SocialEntrepreneurGame:
                     {
                         "title": "Institutional Listening Tour",
                         "description": (
-                            "Bring frontline staff, city officials, and regulators to the same table for no-pressure conversations about what isn't working, then agree on the biggest fixes to go after first."
+                            "Create a meeting with frontline staff, city officials, and regulators for a convesation about the problems at hand, then agree on the biggest fixes to go after first."
                         ),
                         "points_range": (1, 5),
                         "outcome_mapping": {
@@ -141,7 +141,7 @@ class SocialEntrepreneurGame:
                             "Mateo": {"min": 1.1, "mid": 1.6, "max": 2.1},
                             "Camille": {"min": 1.3, "mid": 1.9, "max": 2.5}
                         },
-                        "theory": "Zahra et al. (2009) note that careful listening helps spot the parts of the system where small tweaks unlock much bigger improvements."
+                        "theory": "Zahra et al. (2009) say that careful listening is important for identyfing the parts of the system where small tweaks cause large improvements."
                     }
                 ],
                 "scenario_update": (
